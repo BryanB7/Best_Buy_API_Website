@@ -1,0 +1,445 @@
+{
+    "from": 1,
+    "to": 18,
+    "currentPage": 1,
+    "total": 18,
+    "totalPages": 1,
+    "queryTime": "0.019",
+    "totalTime": "0.072",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=abcat0507008&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG CROSSHAIR VI HERO (Socket AM4) USB 3.1 AMD Motherboard with LED Lighting",
+            "regularPrice": 219.99,
+            "salePrice": 219.99,
+            "url": "https://api.bestbuy.com/click/-/6239835/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6239/6239835_sa.jpg",
+            "longDescription": "Maximize your gaming experience with this Asus Crosshair VI Hero motherboard. Compatibility with AMD X370 Ryzen processors and DDR4 RAM produces epic gameplay, while the Aura Sync LED provides stunning synchronized effects. The hollow heat-sink on this Asus Crosshair VI Hero gaming motherboard allows light from the hub to shine through and allows for maximum heat dissipation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG STRIX H370-F GAMING (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 139.99,
+            "salePrice": 139.99,
+            "url": "https://api.bestbuy.com/click/-/6239836/pdp",
+            "customerReviewAverage": 4.2,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6239/6239836_sa.jpg",
+            "longDescription": "Maximize your gaming experience with this Asus ROG Strix H370-F gaming motherboard. Compatibility with 8th-generation Intel Core processors and DDR4 RAM produces epic performance, while the Aura Sync LED lighting provides stunning effects. The DIY-friendly design on this Asus ROG Strix H370-F gaming motherboard allows simple PC building and installation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - B450 TOMAHAWK (Socket AM4) USB 3.1 Gen 1 AMD Motherboard with LED Lighting",
+            "regularPrice": 114.99,
+            "salePrice": 114.99,
+            "url": "https://api.bestbuy.com/click/-/6305796/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6305/6305796_sa.jpg",
+            "longDescription": "Dominate the competition with this MSI Tomahawk gaming motherboard. Plated heat sinks regulate temperature, and the Mystic Light utility's palette lets you pick and personalize your system with 16.8 million colors. This MSI Tomahawk gaming motherboard uses Store MI technology, which maximizes storage and improves performance with an AMD processor and solid-state drive."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MPG Z390 GAMING PLUS (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 149.99,
+            "salePrice": 134.99,
+            "url": "https://api.bestbuy.com/click/-/6305798/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6305/6305798_sa.jpg",
+            "longDescription": "Build the ultimate PC with this MSI MPG Z390 Gaming Plus motherboard. Featuring a premium layout and an extended heat sink design, this motherboard supports high-end multi-core processors and keeps them cool for maximum performance. This MSI MPG Z390 Gaming Plus motherboard enhances data performance with two advanced M.2 slots."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MPG Z390 GAMING EDGE AC (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 199.99,
+            "salePrice": 184.99,
+            "url": "https://api.bestbuy.com/click/-/6305799/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6305/6305799_sa.jpg",
+            "longDescription": "Design the perfect PC with this MSI MPG Z390 Gaming Edge AC motherboard. Featuring two advanced M.2 slots, DDR4-boosting technology and three PCI-e expansion slots, this motherboard accommodates and enhances a variety of high-end components. This MSI MPG Z390 Gaming Edge AC motherboard maximizes processor performance with an optimal layout and a digital power design."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - TUF X470-PLUS GAMING (Socket AM4) USB 3.1 Gen 1 AMD Motherboard",
+            "regularPrice": 170.99,
+            "salePrice": 170.99,
+            "url": "https://api.bestbuy.com/click/-/6306007/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6306/6306007_sa.jpg",
+            "longDescription": "Upgrade your PC gaming experience with this ASUS gaming motherboard. It supports up to 64GB of DDR4 SDRAM and AMD processors with speeds up to 3.2GHz so you have smooth, uninterrupted play, and the DTS audio provides positional cues to stereo headphones for more realistic sound. This ASUS gaming motherboard includes electrostatic discharge guards to protect components from damage."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MEG Z390 ACE (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 319.99,
+            "salePrice": 319.99,
+            "url": "https://api.bestbuy.com/click/-/6306408/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6306/6306408_sa.jpg",
+            "longDescription": "Conquer the battlefield with this MSI MEG Z390 ACE motherboard. Ideal for online gaming, this motherboard ensures low-latency connections with Killer E2500 Gigabit Ethernet connectivity and enhances DDR4 efficiency with shielded DIMM slots for faster performance. This MSI MEG Z390 ACE motherboard _boosts processor performance with an optimal layout and provides an extra burst of speed when you need it with automated overclocking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - X470 GAMING PLUS (Socket AM4) USB 3.1 Gen 1 AMD Motherboard with LED Lighting",
+            "regularPrice": 139.99,
+            "salePrice": 134.99,
+            "url": "https://api.bestbuy.com/click/-/6306413/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6306/6306413_sa.jpg",
+            "longDescription": "Set the standard with this MSI Gaming Plus motherboard. Included software detects USB devices and improves their performance, and Audio Boost produces studio-level sound quality for exciting game play. The Mystic Light application lets you readily access 16.8 million colors and 10 effects with one click or with your mobile device."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG MAXIMUS XI HERO (WI-FI) (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 289.99,
+            "salePrice": 279.99,
+            "url": "https://api.bestbuy.com/click/-/6306415/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6306/6306415_sa.jpg",
+            "longDescription": "Enhance your gaming rig with this Asus gaming motherboard. Its dedicated onboard clock generator lets you harness its full power, and the ROG firmware provides stability to ensure optimal performance. The cooling system on this Asus gaming motherboard is configured by Fan Xpert 4 and UEFI BIOS to prevent overheating."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - TUF Z390-PLUS GAMING (WI-FI) (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/6311233/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311233_sa.jpg",
+            "longDescription": "Bring your dream PC to life with this ASUS TUF gaming motherboard. It has onboard dual-band Wi-Fi and Bluetooth 5.0 interfaces for built-in wireless connectivity, and Optimem II technology ensures stable modules at overclocking rates. This Intel Optane ASUS memory-ready TUF gaming motherboard is made with military-grade components for heavy-duty performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG Strix B450-F Gaming (Socket AM4) USB 3.1 Gen 2 AMD Motherboard with LED Lighting",
+            "regularPrice": 129.99,
+            "salePrice": 126.99,
+            "url": "https://api.bestbuy.com/click/-/6311234/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311234_sa.jpg",
+            "longDescription": "Get started on your DIY gamer rig with this ASUS ROG Strix motherboard. Its five-way optimization feature simplifies tuning on CPU performance and cooling, and the two PCIe M.2 slots with RAID support let you install high-performance storage components. This ASUS ROG Strix motherboard has an AM4 socket for your AMD Ryzen processor."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG CROSSHAIR VII HERO (Socket AM4) USB 3.1 Gen 1 AMD Motherboard with LED Lighting",
+            "regularPrice": 279.99,
+            "salePrice": 254.99,
+            "url": "https://api.bestbuy.com/click/-/6311236/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311236_sa.jpg",
+            "longDescription": "Enjoy building a custom gaming PC with this DIY-friendly ASUS ROG Crosshair motherboard. Its AM4 socket supports AMD Ryzen processors, and the silk screen labels provide easy slot identification for installing modules and other parts. Synchronize this ASUS ROG Crosshair motherboard with Aura Sync components and your Philips Hue lighting for customized illumination."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - ROG STRIX Z390-E GAMING (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 244.99,
+            "salePrice": 231.99,
+            "url": "https://api.bestbuy.com/click/-/6311237/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311237_sa.jpg",
+            "longDescription": "Build a solid gamer desktop with this ASUS ROG Strix gaming motherboard. It&#8217;s compatible with eighth-generation and ninth-generation Intel Core processors, and its DIY-friendly design consists of pre-mounted I/O shields and a SafeSlot system for easy, secure installation of modules. This ASUS ROG Strix gaming motherboard has onboard dual-band Wi-Fi and Bluetooth 5.0 interfaces for strong wireless connectivity."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "ASUS - PRIME Z390-A (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard with LED Lighting",
+            "regularPrice": 189.99,
+            "salePrice": 189.99,
+            "url": "https://api.bestbuy.com/click/-/6311238/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311238_sa.jpg",
+            "longDescription": "Tailor a high-performance desktop with this ASUS Prime motherboard. Its AI overclocking feature identifies optimal settings for your CPU and cooling system for simplified manual tuning, and the Crystal Sound 3 audio interface with DTS Headphone:X technology supports surround sound formats. This versatile ASUS Prime motherboard lets you control thermal settings via the Fan Xpert 4 or UEFI BIOS application."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MPG Z390 GAMING PRO CARBON AC (Socket LGA1151) USB 3.1 Gen 1 Intel Motherboard",
+            "regularPrice": 239.99,
+            "salePrice": 230.99,
+            "url": "https://api.bestbuy.com/click/-/6319405/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6319/6319405_sa.jpg",
+            "longDescription": "Take your gaming performance to the next level with this MSi gaming motherboard. Compatible with up to ninth-generation Intel processors, it supports high-performance features like DDR4 RAM and USB Type-C, and the Gaming I/O cover offers enhanced lighting options. This MSi gaming motherboard includes thermal enhancement features for high-speed M.2 storage to provide optimal performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MPG X570 GAMING EDGE WIFI (Socket AM4) USB-C Gen2 AMD Motherboard",
+            "regularPrice": 209.99,
+            "salePrice": 209.99,
+            "url": "https://api.bestbuy.com/click/-/6357223/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6357/6357223_sa.jpg",
+            "longDescription": "Build a powerful PC with this MSI MPG X570 Gaming Edge motherboard. The AM4 socket handles second-generation and third-generation AMD Ryzen processors for smooth gaming performance, while DDR4 Boost supports RAM overclocking and rapid data transfer. This MSI MPG X570 Gaming Edge motherboard features a PCIe 4.0 interface for high-end graphics cards and SSDs, and USB 3.2 technology delivers super-fast transfer speeds."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MPG X570 GAMING PLUS (Socket AM4) USB-C Gen2 AMD Motherboard",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/6357229/pdp",
+            "customerReviewAverage": 4.0,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6357/6357229_sa.jpg",
+            "longDescription": "Build a computer to dominate the competition with this MSI MPG X570 Gaming Plus motherboard. The four DDR4 memory slots accommodate up to 128GB of RAM, while the five PCIe expansion slots offer space for additional components. This MSI MPG X570 Gaming Plus motherboard works with select AMD Ryzen 9 processors for a powerful computing experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507008"
+                }
+            ],
+            "name": "MSI - MEG X570 ACE (Socket AM4) USB-C Gen2 AMD Motherboard",
+            "regularPrice": 369.99,
+            "salePrice": 369.99,
+            "url": "https://api.bestbuy.com/click/-/6357252/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6357/6357252_sa.jpg",
+            "longDescription": "Assemble a powerful PC with this MSI MEG X570 ACE motherboard. The three M.2 slots enable installation of high-performance storage components, while the four DDR4 memory slots let you add up to 128GB of RAM for seamless performance. This MSI MEG X570 ACE motherboard is compatible with select AMD Ryzen 9 processors to handle complex applications and programs."
+        }
+    ]
+}

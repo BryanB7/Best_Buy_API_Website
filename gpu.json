@@ -1,0 +1,1309 @@
+{
+    "from": 1,
+    "to": 54,
+    "currentPage": 1,
+    "total": 54,
+    "totalPages": 1,
+    "queryTime": "0.021",
+    "totalTime": "0.146",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=abcat0507002&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce 8400 GS 1GB GDDR3 PCI Express 2.0 Graphics Card - Silver",
+            "regularPrice": 39.99,
+            "salePrice": 39.99,
+            "url": "https://api.bestbuy.com/click/-/1700586/pdp",
+            "customerReviewAverage": 4.2,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1700/1700586_sa.jpg",
+            "longDescription": "This graphics card features CUDA technology and DirectX 10 4.0 support for enhanced visual realism. A core clock speed of 520MHz allows high-speed processing."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce 210 1GB DDR3 PCI Express 2.0 Graphics Card - Silver",
+            "regularPrice": 39.99,
+            "salePrice": 39.99,
+            "url": "https://api.bestbuy.com/click/-/1700647/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1700/1700647_sa.jpg",
+            "longDescription": "This graphics card features 16 processing cores and a 520MHz core clock speed for fast, efficient operation. The DirectX 10.1 and OpenGL 3.1 support provide an ultrarealistic gaming experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - NVIDIA GeForce GT 710 1GB DDR3 PCI Express 2.0 Graphics Card - Black",
+            "regularPrice": 45.99,
+            "salePrice": 45.99,
+            "url": "https://api.bestbuy.com/click/-/4961401/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4961/4961401_sa.jpg",
+            "longDescription": "Make your entire PC experience faster with the EVGA GeForce GT 710 dedicated graphics card. Now, you can enjoy better performance in all your PC multimedia applications. Take on modern games with advanced and reliable dedicated graphics. Significantly faster performance than integrated graphics means a rich and smooth gaming experience. Plus, get the power to drive up to three HD displays with a single card."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - NVIDIA GeForce GT 710 VERTO 2GB DDR3 PCI Express 2.0 Graphics Card - Black",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/5092306/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5092/5092306_sa.jpg",
+            "longDescription": "Enhance your video gaming experience with this PNY NVDIA GeForce graphics card. It ups video memory and comes with access to GeForce Experience, which helps you optimize settings and keep up with driver updates. This PNY NVDIA GeForce graphics card has DVI, VGA and HDMI ports to support three HD displays simultaneously."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon R5 220 Core Edition 2GB GDDR3 PCI Express 2.1 Graphics Card - Silver",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/5315600/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5315/5315600_sa.jpg",
+            "longDescription": "Only at Best BuyEquip your gaming computer with this AMD Radeon GPU. Its PowerTune technology dynamically adjusts the clock speed to provide the optimal performance. With its dual display feature, it enhances your productivity and gaming experience. By utilizing HD 3-D technology, this AMD Radeon GPU with 2GB memory lets you enjoy seamless stereoscopic 3-D gaming."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon R7 240 Core Edition 4GB GDDR3 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "url": "https://api.bestbuy.com/click/-/5315800/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5315/5315800_sa.jpg",
+            "longDescription": "Only at Best Buy  Upgrade your gaming computer with this AMD Radeon GPU. Its Graphics Core Next architecture delivers the full visual quality of gaming applications and also has the capabilities of a CPU for overall computer efficiency. Ghost Thermal 2.0 technology facilitates efficient ventilation and cooling in this AMD Radeon GPU to keep up with intense gaming operations."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce GT 710 2GB Single Slot Dual DVI Graphics Card - Black",
+            "regularPrice": 54.99,
+            "salePrice": 53.99,
+            "url": "https://api.bestbuy.com/click/-/5597203/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5597/5597203_sa.jpg",
+            "longDescription": "Enjoy faster and smoother gaming with this EVGA GeForce GT graphics card. With memory bandwidth of 14.4 Gbps, it performs up to 80 percent faster than integrated GPUs. This EVGA GeForce GT graphics card supports up to three HD monitors for easy multitasking with gaming applications and professional design programs."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - NVIDIA GeForce GTX 1060 XLR8 Gaming OC Edition 3GB GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 269.99,
+            "salePrice": 202.99,
+            "url": "https://api.bestbuy.com/click/-/5613853/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5613/5613853_sa.jpg",
+            "longDescription": "Minimize game-interrupting lags as you eradicate enemies or explore new galaxies with this PNY GeForce Gaming OC graphics card. High-bandwidth GDDR5 technologies and a Dual Fan XLR8 Cooler enhance this plug-and-play card's impressive performance. Immerse yourself in a graphic-heavy game with the clear audio and vivid images that this PNY graphics card delivers."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - NVIDIA GeForce GTX 1050 2GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 174.99,
+            "salePrice": 174.99,
+            "url": "https://api.bestbuy.com/click/-/5711723/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5711/5711723_sa.jpg",
+            "longDescription": "Experience seamless gaming visuals with this PNY GeForce GTX 1050 graphics card. It keeps up with the performance requirements of the latest demanding game titles thanks to its NVIDIA Pascal architecture and Game Ready technologies. This PNY GeForce GTX 1050 graphics card has 2GB of GDDR5 RAM, and it supports DirectX 12 for high-performance yet power-efficient operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - NVIDIA GeForce GTX 1070 XLR8 Gaming Edition 8GB GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 479.99,
+            "salePrice": 359.99,
+            "url": "https://api.bestbuy.com/click/-/5838240/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5838/5838240_sa.jpg",
+            "longDescription": "Power your gaming experience with this PNY graphics card. It has 8GB of RAM to maximize bandwidth, producing smooth images, and it's integrated with NVIDIA GameWorks technologies to minimize latency for lifelike game play. This PNY graphics card is fitted with a dual fan cooler to prevent overheating during extended use."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - NVIDIA GeForce GT 1030 2GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 119.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/5901353/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5901/5901353_sa.jpg",
+            "longDescription": "Enhance your computer's performance with this PNY NVIDIA GeForce graphics card. Its 2GB memory and 1468MHz boost speed provide efficient performance for smooth gaming and video editing, and it supports 4K display devices through its HDMI 2.0 connector. This PNY NVIDIA GeForce graphics card's GeForce Experience software makes driver updates and game optimization easy."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 550 Core Edition 4GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 129.99,
+            "salePrice": 109.99,
+            "url": "https://api.bestbuy.com/click/-/5982203/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5982/5982203_sa.jpg",
+            "longDescription": "Generate stunning game visuals in Full HD with this XFX Radeon RX 550 graphics card. Its 4GB 128-bit memory keeps up with the high-bandwidth requirements of AAA titles, and its XFX True Clock technology optimizes clock speed performance. The AMD FreeSync 2 technology of this FX Radeon RX 550 graphics card lets you enjoy seamless visuals without tears and lags."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - NVIDIA GeForce GTX 1050 Ti GAMING X BV 4GB GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 209.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/6087802/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6087/6087802_sa.jpg",
+            "longDescription": "Equip your gaming rig with this NVIDIA GeForce GTX 1050 graphics card. It has three display outputs, including DisplayPort and HDMI, for connecting monitors and peripherals, and its two large fans force air through the heatsink to keep the processor cool. This NVIDIA GeForce GTX 1050 graphics card has 4GB of RAM for fast image and video rendering."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 580 GTS Black Edition 8GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 259.99,
+            "salePrice": 219.99,
+            "url": "https://api.bestbuy.com/click/-/6092641/pdp",
+            "customerReviewAverage": 4.2,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6092/6092641_sa.jpg",
+            "longDescription": "Enhance your gaming rig with this XFX Radeon graphics card. Its True Clock technology controls clock speed to maximize performance, and the Radeon Chill feature tracks game play to regulate the frame rate to lower temperature and conserve power. The aluminum backplate of this XFX Radeon graphics card protects it while absorbing heat."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 580 GTS XXX Edition 8GB GDDR5 PCI Express 3.0 Graphics Card",
+            "regularPrice": 229.99,
+            "salePrice": 229.99,
+            "url": "https://api.bestbuy.com/click/-/6136515/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6136/6136515_sa.jpg",
+            "longDescription": "Maximize visual performance of your effects-laden games with this XFX Radeon RX 580 GTS graphics card. Boasting Polaris architecture to make the most of your PCI slot, this upgrade features 4th-generation GCN graphics cores and 8GB of dedicated graphics memory. True Clock technology on this XFX Radeon RX 580 GTS graphics card delivers optimized speeds through its hardware for incredibly high frame rates."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX Vega 56 8GB HBM2 PCI Express 3.0 Graphics Card",
+            "regularPrice": 799.99,
+            "salePrice": 349.99,
+            "url": "https://api.bestbuy.com/click/-/6183041/pdp",
+            "customerReviewAverage": 3.8,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6183/6183041_sa.jpg",
+            "longDescription": "Upgrade to powerful high-resolution gaming support with this Radeon RX Vega graphics card, which features High-Bandwidth Cache (HBC) to make the most of memory and GPU. This HDMI graphics upgrade has an optimized pixel engine for smooth 3D rendering, while the enhanced polygon geometry engine elevates FPS for more immersive play. With 1471MHz boost clock, this Radeon RX Vega graphics card provides massive support for overclocking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 560 4GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 149.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/6183042/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6183/6183042_sa.jpg",
+            "longDescription": "Play the latest in AAA titles with this XFX Radeon RX 560 graphics card. Its power-saving CHILL technology automatically adjusts the frame rate based on in-game movements, and the 4GB of GDDR5 RAM with 1024 stream processors smoothly renders 3D images. This XFX Radeon RX 560 graphics card has DisplayPort and HDMI connections, so it's optimized for large, modern displays."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 570 RS Black Edition 8GB GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 299.99,
+            "salePrice": 299.99,
+            "url": "https://api.bestbuy.com/click/-/6202343/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6202/6202343_sa.jpg",
+            "longDescription": "Crank graphics settings on your favorite games up to high with this 8GB XFX Radeon RX 570 graphics card. Its unique Chill power-saving feature dynamically regulates the framerate based on your movements in-game, and it has BIOS-controlled overclocking for optimized performance. This XFX Radeon RX 570 graphics card has a uni-body heatsink to enhance its thermal efficiency, prolonging its life."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - AMD Radeon RX 560 AERO ITX OC 4G GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 149.99,
+            "salePrice": 149.99,
+            "url": "https://api.bestbuy.com/click/-/6202776/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6202/6202776_sa.jpg",
+            "longDescription": "Up the ante on gaming video with this MSI Aero TX Radeon graphics card. It lets you record in-game video and control overclocking via Android or iOS devices, and it comes with 4GB of dedicated RAM for lag-free performance. This MSI Aero TX Radeon graphics card has solid capacitors for durability under full loads."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - AMD Radeon RX 570 ARMOR OC 8G GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6202778/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6202/6202778_sa.jpg",
+            "longDescription": "Upgrade your current gaming rig with this MSI Armor graphics card. Its 8GB of dedicated memory provides smooth gameplay performance, and its two TORX fans deliver quiet operation and help keep components from overheating. This MSI Armor graphics card has a solid black metal backplate for an extra edge and increased sturdiness."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - AMD Radeon RX 580 ARMOR MK2 OC 8G GDDR5 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 239.99,
+            "salePrice": 239.99,
+            "url": "https://api.bestbuy.com/click/-/6202779/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6202/6202779_sa.jpg",
+            "longDescription": "Upgrade your gaming machine with this MSI Radeon Armor MK2 graphics card. The TORX 2.0 fan is super quiet, so you won't be distracted during battles, and the double ball bearings keep the motors running for years of use. This MSI Radeon Armor MK2 graphics card has 8GB of dedicated RAM and an Afterburner overclocking capability that supports multi-GPU setups."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 580 GTS Black Core Edition 8GB GDDR5 PCI Express 3.0 Graphics Card",
+            "regularPrice": 239.99,
+            "salePrice": 221.99,
+            "url": "https://api.bestbuy.com/click/-/6217300/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6217/6217300_sa.jpg",
+            "longDescription": "Ramp up the gaming capabilities on your computer with Radeon RX 580 Series graphics. XFX True Clock technology optimizes clock speeds based on performance needs, keeping you in the action in each frame, while Radeon CHILL technology lowers power consumption and maximizes framerate potential. The custom aluminum backplate design on this Radeon RX 580 Series graphics card protects your GPU from overheating."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce RTX 2080 Ti Gaming X Trio 11GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 1309.99,
+            "salePrice": 1309.99,
+            "url": "https://api.bestbuy.com/click/-/6290652/pdp",
+            "customerReviewAverage": 4.1,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290652_sa.jpg",
+            "longDescription": "Power your favorite games with this NVIDIA GeForce GTX 1080 graphics card. It has 8GB of dedicated video memory for smooth rendering at favorable frame rates, and the vapor chamber cooling technology facilitates efficient heat dissipation. This NVIDIA GeForce GTX 1080 graphics card is compatible with VR hardware for an immersive gaming experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce RTX 2080 Gaming X Trio 8GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 779.99,
+            "salePrice": 689.99,
+            "url": "https://api.bestbuy.com/click/-/6290654/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290654_sa.jpg",
+            "longDescription": "Design an invincible gaming rig with this MSI GeForce RTX GAMING X TRIO graphics card. Its Tri-Frozr thermal system utilizes three TORX 3.0 fans with double ball bearings for maximum quiet cooling, and customizable RGB lights add stunning effects. This MSI GeForce RTX GAMING X TRIO graphics card has 8GB of GDDR6 memory, rendering HDR visuals at peak frame rates."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2080 Ti XC Ultra Gaming 11GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 1249.99,
+            "salePrice": 1249.99,
+            "url": "https://api.bestbuy.com/click/-/6290657/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290657_sa.jpg",
+            "longDescription": "Equip your gaming rig with this EVGA GeForce RTX graphics card. It's powered by NVIDIA's Turing architecture that provides increased gaming realism and speed, and it has advanced overclocking capabilities that let you crank game settings up to the highest levels for more detail. This EVGA GeForce RTX graphics card has a built-in cooling system that keeps components from overheating."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2080 XC Ultra Gaming 8GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 849.99,
+            "salePrice": 719.99,
+            "url": "https://api.bestbuy.com/click/-/6290660/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290660_sa.jpg",
+            "longDescription": "Equip your PC for next-generation gaming with this EVGA GeForce RTX XC Ultra graphics card. The real-time ray tracing and AI functions of its NVIDIA Turing architecture provide striking realism, and dual hydrodynamic bearing fans maintain a cool system. This VR-ready EVGA GeForce RTX XC Ultra graphics card has 8GB of GDDR6 memory for seamless display of complex visuals."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2070 XC Ultra Gaming 8GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans & RGB LED",
+            "regularPrice": 599.99,
+            "salePrice": 479.99,
+            "url": "https://api.bestbuy.com/click/-/6290661/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290661_sa.jpg",
+            "longDescription": "The EVGA GeForce RTX 20-series graphics cards are powered by the all-new NVIDIA Turing architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion. With the EVGA GeForce RTX 20-series gaming cards, you get a perfect gaming experience with next-generation graphics performance, ice-cold cooling, and advanced overclocking features with the all-new EVGA Precision X1 software."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2080 Ti XC GAMING 11GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans & RGB LED",
+            "regularPrice": 1199.99,
+            "salePrice": 1199.99,
+            "url": "https://api.bestbuy.com/click/-/6290663/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290663_sa.jpg",
+            "longDescription": "Maintain the velocity of your gaming experience with this NVIDIA EVGA GeForce RTX graphic card. Its Turing architecture increases the level of power, authenticity and pace during games, and the AI enhanced graphics create an immersive experience. This EVGA GeForce RTX graphic card lets you play without fear of overheating thanks to its advanced cooling technologies."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2080 XC GAMING 8GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans & RGB LED",
+            "regularPrice": 799.99,
+            "salePrice": 799.99,
+            "url": "https://api.bestbuy.com/click/-/6290681/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290681_sa.jpg",
+            "longDescription": "Upgrade your gaming experience with this NVIDIA EVGA GeForce RTX graphics card. Its 8 GB of GDDR6 RAM and NVIDIA's RTX architecture provide top-shelf gaming performance, and the dual-slot configuration helps promote better airflow for stable performance. This NVIDIA EVGA GeForce RTX graphics card supports real-time ray tracing for a new level of realism in your games.&#13;"
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2070 XC Gaming 8GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans & RGB LED",
+            "regularPrice": 579.99,
+            "salePrice": 539.99,
+            "url": "https://api.bestbuy.com/click/-/6290682/pdp",
+            "customerReviewAverage": 4.1,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290682_sa.jpg",
+            "longDescription": "Discover the ultimate in graphics with this EVGA GeForce RTX 2070 graphics card. Real-time ray tracing creates ever-more realistic gaming environments, powered by the NVIDIA Turing architecture, and EVGA Precision X1 software delivers powerful overclocking so you can get even more out of your machine. This EVGA GeForce RTX 2070 graphics card ensures quiet but efficient operation with the precision fan blades and hub."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - GeForce RTX 2080 Ti XLR8 Gaming Overclocked Edition 11GB GDDR6 PCI Express 3.0 Graphics Card - Silver/Gray",
+            "regularPrice": 1299.99,
+            "salePrice": 1299.99,
+            "url": "https://api.bestbuy.com/click/-/6290686/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290686_sa.jpg",
+            "longDescription": "Immerse yourself in adventures with this PNY GeForce RTX 2080 gaming graphics card. Its NVIDIA Turing technology provides AI-enabled enhancements and real-time ray tracing to create stunning images, and the special overclocked edition features improve the boost clock speed to 1545MHz. This PNY GeForce RTX 2080 gaming graphics card has 8GB of GDDR6 memory for realistic 4K and VR scenes."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - GeForce RTX 2080 XLR8 Gaming Overclocked Edition 8GB GDDR6 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 849.99,
+            "salePrice": 829.99,
+            "url": "https://api.bestbuy.com/click/-/6290690/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6290/6290690_sa.jpg",
+            "longDescription": "Generate lifelike environments with this PNY GeForce RTX XLR8 gaming graphics card. It has 8GB of GDDR6 memory for a seamless 4K and VR experience, and the NVIDIA Turing architecture uses real-time ray tracing and AI-enabled enhancements to produce hyperrealistic visuals. This overclocked-edition PNY GeForce RTX XLR8 gaming graphics card provides powerful performance with a boost clock speed of 1710MHz."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "NVIDIA - GeForce RTX 2080 Ti Founders Edition 11GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 1199.99,
+            "salePrice": 1199.99,
+            "url": "https://api.bestbuy.com/click/-/6291646/pdp",
+            "customerReviewAverage": 4.1,
+            "manufacturer": "NVIDIA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6291/6291646_sa.jpg",
+            "longDescription": "Upgrade your gaming experience with this NVIDIA GeForce RTX graphics card. Its Turing architecture uses all-new technologies that create incredibly lifelike graphics, and the 11GB of GDDR6 memory allows for smoother and faster gameplay. This NVIDIA GeForce RTX graphics card lets you take screenshots and share experiences with your friends."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "NVIDIA - GeForce RTX 2080 Founders Edition 8GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 799.99,
+            "salePrice": 699.99,
+            "url": "https://api.bestbuy.com/click/-/6291648/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "NVIDIA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6291/6291648_sa.jpg",
+            "longDescription": "Enhance your gaming experience with this NVIDIA GeForce RTX 2080 graphics card. Its Turing CPU architecture has six times the performance capability of older versions for exceptional realism, speed, power efficiency and immersion. This NVIDIA GeForce RTX 2080 graphics card has a next-generation eight-phase power supply for maximum overclocking to power your central processing unit."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "NVIDIA - GeForce RTX 2070 Founders Edition 8GB GDDR6 PCI Express 3.1 Graphics Card",
+            "regularPrice": 599.99,
+            "salePrice": 479.99,
+            "url": "https://api.bestbuy.com/click/-/6291650/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "NVIDIA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6291/6291650_sa.jpg",
+            "longDescription": "Heighten your gaming experience with this VR-ready NVIDIA GeForce RTX Founders Edition graphics card. The NVIDIA Turing architecture incorporates real-time ray tracing and AI features for enhanced realism, and the 8GB of memory supports peak resolutions and frame rates. Dual-axial 13-blade fans and a vapor chamber keep this NVIDIA GeForce RTX Founders Edition graphics card cool and quiet."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce RTX 2070 GAMING Z 8GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 549.99,
+            "salePrice": 479.99,
+            "url": "https://api.bestbuy.com/click/-/6291651/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6291/6291651_sa.jpg",
+            "longDescription": "Take your gaming to the next level with this NVIDIA GeForce graphics card. Its 8GB RAM and RTX processing unit keep even the most demanding games running smoothly, while VR support provides a high level of immersion for virtual-reality gaming titles. This NVIDIA GeForce graphics card can handle up to four monitors with a base clock speed of 1410MHz."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - XLR8 Gaming NVIDIA GeForce RTX 2070 Overclocked Edition 8GB GDDR6 PCI Express 3.0 Graphics Card - Black/Red",
+            "regularPrice": 589.99,
+            "salePrice": 549.99,
+            "url": "https://api.bestbuy.com/click/-/6300813/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6300/6300813_sa.jpg",
+            "longDescription": "Experience immersive gaming with this GeForce RTX 2070 graphics card. Its real-time ray tracing and AI technology swiftly render realistic game worlds, and NVIDIA G-Sync powers 240Hz refresh rates for smooth gameplay. Adapted to virtual reality, this GeForce RTX 2070 graphics card lets you enjoy lifelike experiences in 4K resolution."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 590 Fatboy OC+ 8GB GDDR5 PCI Express 3.0 Graphics Card",
+            "regularPrice": 279.99,
+            "salePrice": 249.99,
+            "url": "https://api.bestbuy.com/click/-/6315898/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6315/6315898_sa.jpg",
+            "longDescription": "Experience the exceptional visuals of top PC games with this VR-ready XFX Radeon RX Fatboy graphics card. Its 8GB of 256-bit GDDR5 memory handles the demands of complex gaming and 4K streaming, and the 1600MHz overclocking capability provides an extra performance boost. This XFX Radeon RX Fatboy graphics card stays cool and efficient with an increased heat sink surface area."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "ASUS - NVIDIA GeForce RTX 2080 OC Edition 8GB GDDR6 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 869.99,
+            "salePrice": 829.99,
+            "url": "https://api.bestbuy.com/click/-/6319232/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "ASUS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6319/6319232_sa.jpg",
+            "longDescription": "Begin your gaming adventures with this ROG Strix GeForce RTX graphics card. The overclocked edition delivers powerful performance to help you crush the competition, and the axial-tech fans and MaxContact technology ensure efficient thermal management. This VR-ready ROG Strix GeForce RTX graphics card is compatible with 4K displays for maximum immersion."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "NVIDIA - TITAN RTX 24GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 2499.99,
+            "salePrice": 2499.99,
+            "url": "https://api.bestbuy.com/click/-/6320585/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "NVIDIA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6320/6320585_sa.jpg",
+            "longDescription": "Get through projects without screen lag or stutter by using this NVIDIA TITAN RTX graphics card. It has 24GB of GDDR6 memory to deliver blazing speeds, and Turing technology delivers up to six times the performance of older graphics cards to support memory-intensive programs. This NVIDIA TITAN RX graphics card also provides the power of AI and ray tracing."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce RTX 2060 XC Ultra Gaming 6GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans",
+            "regularPrice": 429.99,
+            "salePrice": 379.99,
+            "url": "https://api.bestbuy.com/click/-/6321301/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6321/6321301_sa.jpg",
+            "longDescription": "Give your gaming setup a powerful upgrade with this EVGA GeForce RTX 2060 XC ultra gaming graphics card. The built-in fans keep your computer running cool throughout intense play sessions, and the real-time ray tracing delivers faithful, realistic image rendering. This EVGA GeForce RTX 2060 XC ultra gaming graphics card features NVIDIA GPU Boost for fast frame rates and smooth playback."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce RTX 2060 GAMING Z 6GB GDDR6 PCI Express 3.0 Graphics Card - Silver/Black",
+            "regularPrice": 399.99,
+            "salePrice": 399.99,
+            "url": "https://api.bestbuy.com/click/-/6322052/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6322/6322052_sa.jpg",
+            "longDescription": "Experience games like never before with this MSI NVIDIA GeForce RTX 2060 Gaming Z graphics card. Featuring real-time ray tracing technology, NVIDIA Turing architecture improves graphical quality with realistic lighting, shadows and reflections. This MSI NVIDIA GeForce RTX 2060 Gaming Z graphics card stays cool during intense sessions with an MSI TWIN FROZR thermal design."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce GTX 1660 Ti Gaming X 6GB GDDR6 PCI Express 3.0 Graphics Card",
+            "regularPrice": 319.99,
+            "salePrice": 304.99,
+            "url": "https://api.bestbuy.com/click/-/6330461/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6330/6330461_sa.jpg",
+            "longDescription": "Run demanding games at high frame rates and in incredible detail with this MSI GeForce GTX 1660 Ti graphics card. Games, streaming and other graphical programs run fluidly thanks to the 1,536 CUDA cores, and three DisplayPort outputs make multi-monitor setup simple. This MSI GeForce GTX 1660 Ti graphics card has 6GB of memory for handling intense workloads."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce GTX 1660 Ti XC Ultra Gaming 6GB GDDR6 PCI Express 3.0 Graphics Card with Dual HDB Fans",
+            "regularPrice": 319.99,
+            "salePrice": 319.99,
+            "url": "https://api.bestbuy.com/click/-/6330848/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6330/6330848_sa.jpg",
+            "longDescription": "Upgrade your gaming PC with this EVGA GeForce GTX 1660 Ti XC Ultra GAMING graphics card. Featuring 1536 CUDA cores and 6144MB of high-performance DDR6 memory, this graphics card easily handles demanding titles at high settings. This EVGA GeForce 1660 Ti XC Ultra GAMING graphics card is compatible with NVIDIA G-SYNC and supports Microsoft DirectX 12 for high-powered gaming."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon VII 16GB HBM2 PCI Express 3.0 Graphics Card",
+            "regularPrice": 699.99,
+            "salePrice": 699.99,
+            "url": "https://api.bestbuy.com/click/-/6330849/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6330/6330849_sa.jpg",
+            "longDescription": "Step up your game with this XFX AMD Radeon VII graphics card. The 16GB of HBM2 memory and up to 1TB/sec. of memory bandwidth easily handle the most visually intensive titles. This XFV AMD Radeon VII graphics card renders delivers smooth gameplay and realistic images with 3,840 stream processors and a 4096-bit memory interface."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce GTX 1660 XC Black Gaming 6GB GDDR5 PCI Express 3.0 Graphics Card with HDB Fan",
+            "regularPrice": 229.99,
+            "salePrice": 218.99,
+            "url": "https://api.bestbuy.com/click/-/6339195/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6339/6339195_sa.jpg",
+            "longDescription": "Handle demanding PC games with this EVGA GeForce GTX 1660 XC graphics card. The EVGA cooling system uses a hydraulic-dynamic bearing fan and heat skink with L-shaped fins for enhanced thermal stability. With NVIDIA Turing architecture and 6GB of memory, this EVGA GeForce GTX 1660 XC graphics card renders complex visuals seamlessly."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "EVGA - GeForce GTX 1660 XC Ultra Gaming 6GB GDDR5 PCI Express 3.0 Graphics Card with Dual HDB Fans",
+            "regularPrice": 259.99,
+            "salePrice": 259.99,
+            "url": "https://api.bestbuy.com/click/-/6339197/pdp",
+            "customerReviewAverage": 4.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6339/6339197_sa.jpg",
+            "longDescription": "Run games and other graphically intense applications smoothly with this EVGA GeForce GTX 1660 XC graphics card. The 6144MB of GDDR5 RAM deliver the resources needed for high frame rates and fluid motion. This EVGA GeForce GTX 1660 XC graphics card is G-SYNC-ready to prevent screen tearing and stuttering for a high-quality experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - NVIDIA GeForce GTX 1660 6GB GDDR5 PCI Express 3.0 Graphics Card - Black/Gray",
+            "regularPrice": 249.99,
+            "salePrice": 249.99,
+            "url": "https://api.bestbuy.com/click/-/6343050/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6343/6343050_sa.jpg",
+            "longDescription": "Experience incredible visuals with this MSI GeForce GTX 1660 Gaming X 6G graphics card. Two Torx fans and a heatsink with advanced aerodynamics provide state-of-the-art cooling to this NVIDIA-powered card during heated gaming sessions. A custom PCB enhances power delivery make this MSI GeForce GTX 1660 Gaming X 6G graphics card a strong performer in even the most demanding games."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - XLR8 Gaming NVIDIA GeForce GTX 1660 Overclocked Edition 6GB GDDR6 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 249.99,
+            "salePrice": 249.99,
+            "url": "https://api.bestbuy.com/click/-/6343702/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6343/6343702_sa.jpg",
+            "longDescription": "Enjoy high-end gaming with this PNY GeForce GTX 1660 XLR8 graphics card. The 6GB of GDDR5 memory offer rapid access to relevant data, and multi-screen support delivers an immersive experience. This PNY GeForce GTX 1660 XLR8 graphics card features game-ready drivers and is VR-compatible for excellent performance with current and future applications."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - XLR8 NVIDIA GeForce GTX 1650 Overclocked Edition 4GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6343714/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6343/6343714_sa.jpg",
+            "longDescription": "Enjoy high-end gaming with this PNY GeForce GTX 1650 overclocked graphics card. The NVIDIA Turing architecture offers excellent performance with old and current games, while the GDDR5 memory delivers high frame rates. This PNY GeForce GTX 1650 overclocked graphics card supports dual-monitor setups for an increase in workspace and an immersive experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "PNY - XLR8 Gaming NVIDIA GeForce RTX 2060 Overclocked Edition 6GB GDDR6 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 379.99,
+            "salePrice": 379.99,
+            "url": "https://api.bestbuy.com/click/-/6346830/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6346/6346830_sa.jpg",
+            "longDescription": "Step up gaming performance with this PNY GeForce RTX 2060 graphics card. The T uring architecture offers real-time ray tracing and utilizes the power of AI for next-level visuals. VR Ready technology supports current and next-gen titles for lasting performance. This PNY GeForce RTX 2060 graphics card features HDMI, DisplayPort and DVI-D ports for multi-screen support, providing an immersive experience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "MSI - GeForce GTX 1650 Gaming X 4GB GDDR5 PCI Express 3.0 Graphics Card - Black",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6347252/pdp",
+            "customerReviewAverage": 4.2,
+            "manufacturer": "MSI",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6347/6347252_sa.jpg",
+            "longDescription": "Experience incredible visuals with this MSI GeForce GTX 1650 graphics card. The DisplayPort and HDMI ports offer multiple connection options and multi-monitor use for increased productivity. NVIDIA G-SYNC technology provides smooth tear-free graphics with up to 240Hz refresh rate for responsiveness. This MSI GeForce GTX 1650 graphics card uses 4GB of dedicated GDDR5 memory, rendering high-resolution textures easily."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 5700 8GB GDDR6 PCI Express 4.0 Graphics Card - Black",
+            "regularPrice": 349.99,
+            "salePrice": 349.99,
+            "url": "https://api.bestbuy.com/click/-/6358880/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6358/6358880_sa.jpg",
+            "longDescription": "Enjoy immersive visuals on your PC games with this AMD Radeon RX 5700 graphics card. The 8GB of GDDR6 memory keeps up with the demands of 3-D media streaming and virtual reality games. This AMD Radeon RX 5700 graphics features a max 1725MHz overclocking capability for a performance boost, and the DisplayPort and HDMI ports provide flexible connectivity options."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507002"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX 5700XT 8GB GDDR6 PCI Express 4.0 Graphics Card - Black",
+            "regularPrice": 399.99,
+            "salePrice": 399.99,
+            "url": "https://api.bestbuy.com/click/-/6358893/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6358/6358893_sa.jpg",
+            "longDescription": "Experience the exceptional visuals of top PC games with this XFX Radeon RX 5700 XT graphics card. Its 8GB of 256-bit GDDR6 memory handles the demands of complex gaming and 4K streaming, and the 1905MHz overclocking capability provides an extra performance boost."
+        }
+    ]
+}

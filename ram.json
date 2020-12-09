@@ -1,0 +1,1336 @@
+{
+    "from": 1,
+    "to": 49,
+    "currentPage": 1,
+    "total": 49,
+    "totalPages": 1,
+    "queryTime": "0.019",
+    "totalTime": "0.150",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=abcat0506000&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance Pro Series 32GB (4PK x 8GB) 1.6 GHz DDR3 DIMM Desktop Memory Kit - Multi",
+            "regularPrice": 189.99,
+            "salePrice": 172.99,
+            "url": "https://api.bestbuy.com/click/-/1655374/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1655/1655374_sa.jpg",
+            "longDescription": "Add 32GB of DDR3 DIMM memory to your desktop with this Corsair Vengeance Pro Series pack that includes four 8GB modules with 8-layer PCBs and ICs to promote stable overclocking. The anodized-aluminum heat spreaders help keep components cool."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance Pro Series 16GB (2PK x 8GB) 1.6 GHz DDR3 DIMM Desktop Memory Kit - Multi",
+            "regularPrice": 99.99,
+            "salePrice": 88.99,
+            "url": "https://api.bestbuy.com/click/-/1655416/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1655/1655416_sa.jpg",
+            "longDescription": "Enhance your desktop's performance with this Corsair Vengeance Pro Series pack, which includes two 8GB DDR3 DIMM memory modules with 8-layer PCBs and Ics to enhance overclocking capabilities. The anodized-aluminum heat spreaders promote cool operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "CORSAIR - 8GB (2PK x 4GB) 1.0GHz DDR3 SoDIMM Laptop Memory Kit - Green",
+            "regularPrice": 42.99,
+            "salePrice": 42.99,
+            "url": "https://api.bestbuy.com/click/-/2824528/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/2824/2824528_sa.jpg",
+            "longDescription": "This 8GB memory kit is designed for Apple&#174; iMac&#174;, MacBook&#174; and MacBook Pro and features up to 1.0GHz operating speed for easy Web browsing and efficient operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "PNY - Performance 4GB (1PK 4GB) 1.6GHz DDR3 Laptop Memory - Green",
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "url": "https://api.bestbuy.com/click/-/3779273/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/3779/3779273_sa.jpg",
+            "longDescription": "Keep your notebook moving with this PNY 4GB DDR3 RAM stick. The low 1300MHz frequency speed helps to reduce temperatures across the laptop while ensuring it still has enough speed to keep data flowing to important programs. Each PNY 4GB DDR3 RAM stick is ideal for motherboards that have 1.5-volt RAM slots."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "PNY - 8GB 1.6 GHz DDR3 SoDIMM Laptop Memory - Green",
+            "regularPrice": 54.99,
+            "salePrice": 54.99,
+            "url": "https://api.bestbuy.com/click/-/4680400/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4680/4680400_sa.jpg",
+            "longDescription": "Give your computer a much-needed upgrade with this PNY 8GB DDR3 RAM. It's designed to fit in a compatible notebook or laptop, and the 1600MHz frequency speed ensures data can quickly be transferred to the stick to reduce or even eliminate delays. This PNY 8GB DDR3 RAM is compatible with 1.35-volt motherboard RAM slots."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "CORSAIR - ValueSelect 16GB (2PK x 8GB) 1.3 GHz DDR3 SDRAM Laptop Memory - Multi",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/4690376/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4690/4690376_sa.jpg",
+            "longDescription": "ValueSelect is a full line of standard DDR2 and DDR3 memory upgrade kits for home and office desktop and notebook PCs. They are carefully screened by Corsair for reliable operation and backed by our lifetime warranty."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "PNY - 16 GB (2PK x 8GB) 1.6 GHz DDR3L SoDIMM Laptop Memory Kit - Green",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/4830503/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4830/4830503_sa.jpg",
+            "longDescription": "Upgrade your computer's performance by adding more power and RAM with this PNY memory kit. Easily add 16GB of DDR3 RAM to your notebook PC with two separate 8GB parts. The 1600 MHz memory speed helps achieve fast computing, while the lower power consumption in this PNY memory kit saves money and energy."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - Anarchy 16GB (2PK x 8GB) 2.4 GHz DDR4 DIMM Desktop Memory Kit - Blue",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/4842608/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4842/4842608_sa.jpg",
+            "longDescription": "Power up your computer with this PNY 16GB DDR4 RAM stick. The high-performance 2400MHz memory delivers plenty of bandwidth and low latency across all your applications, and the low 1.2-volt draw keeps thermal shock down. Peak performance ensures this PNY 16GB DDR4 RAM stick delivers plenty of gaming fun for longer."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 16GB (2PK x 8GB) 3.2 GHz DDR4 DRAM Desktop Memory Kit - Black",
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "url": "https://api.bestbuy.com/click/-/4895506/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895506_sa.jpg",
+            "longDescription": "Give your computer a performance boost with this Corsair Vengeance LPX DDR4 DRAM desktop memory, which offers high frequencies and bandwidth with low power consumption. XMP 2.0 support enables simple automatic overclocking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 16GB (2PK x 8GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black",
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "url": "https://api.bestbuy.com/click/-/4895508/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895508_sa.jpg",
+            "longDescription": "Give your computer a memory boost with this Corsair Vengeance LPX DDR4 DRAM desktop memory, which offers high frequencies and bandwidth with reduced power consumption. XMP 2.0 support enables simple automatic overclocking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black",
+            "regularPrice": 134.99,
+            "salePrice": 134.99,
+            "url": "https://api.bestbuy.com/click/-/4895510/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895510_sa.jpg",
+            "longDescription": "Give your computer a boost with this Corsair Vengeance LPX DDR4 DRAM desktop memory, which offers high frequencies and bandwidth while maintaining low power consumption. The up to 2666MHz operating speed ensures smooth, reliable use."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 3.2 GHz DDR4 DRAM Desktop Memory Kit - Black",
+            "regularPrice": 154.99,
+            "salePrice": 154.99,
+            "url": "https://api.bestbuy.com/click/-/4895530/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895530_sa.jpg",
+            "longDescription": "Boost your computer's memory with this Corsair Vengeance LPX DDR4 DRAM desktop memory, which offers high frequencies and bandwidth with low power consumption. XMP 2.0 support enables simple automatic overclocking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - Performance 16GB (2PK 8GB) 1.6GHz DDR3 Desktop Memory - Green",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/5333202/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5333/5333202_sa.jpg",
+            "longDescription": "Accomplish more on your PC with these PNY desktop DIMM modules, which have a clock frequency of 1600MHz. The DDR3 sticks have a combined capacity of 16GB to let you load and utilize more applications at the same time. These PNY desktop DIMM modules have excellent thermal performance to prevent overheating."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - 8GB 1.6 GHz DDR3 DIMM Desktop Memory - Green",
+            "regularPrice": 54.99,
+            "salePrice": 54.99,
+            "url": "https://api.bestbuy.com/click/-/5429091/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5429/5429091_sa.jpg",
+            "longDescription": "Give your computer a boost with this PNY 8GB DDR3 desktop RAM. It's ideal for use with various motherboards within desktop computers, and it provides an instant boost or is ideal for replacing fried sticks. The 1600MHz clock speed ensures this PNY 8GB DDR3 desktop RAM gets your computer moving data efficiently."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - 16 GB (2PK x 8GB) 1.8 GHz DDR3 DIMM Desktop Memory Kit - Black",
+            "regularPrice": 189.99,
+            "salePrice": 189.99,
+            "url": "https://api.bestbuy.com/click/-/5429124/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5429/5429124_sa.jpg",
+            "longDescription": "Boost your desktop's performance with this PNY memory kit, which contains two 8GB PC3-14900 CAS 10 DDR3 DIMM modules that operate at up to 1866MHz."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LED Series 32GB (4PK 8GB) 2.666GHz DDR4 Desktop Memory with LED Lighting - Black",
+            "regularPrice": 309.99,
+            "salePrice": 309.99,
+            "url": "https://api.bestbuy.com/click/-/5580492/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5580/5580492_sa.jpg",
+            "longDescription": "Corsair Vengeance memory modules are designed with overclockers in mind. Vengeance DIMMs are built using RAM specially selected for their high-performance potential. Aluminum heat spreaders help dissipate heat, and provide the aggressive look that you want in your gaming rig."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LED 16GB (2PK 8GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 149.99,
+            "salePrice": 149.99,
+            "url": "https://api.bestbuy.com/click/-/5580495/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5580/5580495_sa.jpg",
+            "longDescription": "Give your computer a performance boost with this Corsair Vengeance memory kit. Each if its two 8GB memory module has 10-layer printed circuit boards for improved signal routing and faster CAD rendering. This 16GB Corsair Vengeance memory kit has a speed of 3200MHz to meet the overclocking requirements of your gaming system."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LED 16GB (2PK 8GB) 3GHz PC4-24000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 209.99,
+            "salePrice": 209.99,
+            "url": "https://api.bestbuy.com/click/-/5580497/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5580/5580497_sa.jpg",
+            "longDescription": "Boost your gaming rig with this Corsair Vengeance memory kit. It has pre-configured XMP 2.0 profiles that provide automatic overclocking settings to match the performance requirements of your gaming system. This 16GB Corsair Vengeance memory kit works with 3000Mhz speeds and low voltages for fast performance at lower power consumption."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance 16 GB (2PK x 8GB) 1.6 GHz DDR3 DIMM Desktop Memory Kit - Multi",
+            "regularPrice": 147.99,
+            "salePrice": 138.99,
+            "url": "https://api.bestbuy.com/click/-/5771735/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5771/5771735_sa.jpg",
+            "longDescription": "This 2-pack of Corsair Vengeance 8GB DDR3 memory delivers enhanced multitasking performance for your 2nd or 3rd Generation Intel&#174; Core&#8482; dual-channel processor- and motherboard-equipped desktop."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 32GB (2PK 16GB) 3.0GHz DDR4 Desktop Memory - Black",
+            "regularPrice": 144.99,
+            "salePrice": 144.99,
+            "url": "https://api.bestbuy.com/click/-/5822461/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822461_sa.jpg",
+            "longDescription": "Build a powerful yet efficient gaming rig with this 32GB Corsair VENGEANCE memory kit. Its XMP 2.0 support for automatic overclocking on its two 16GB DDR4 modules lets it keep up with intense multitasking demands while operating with low-voltage output. The anodized aluminum heat spreader on this 3000MHz Corsair VENGEANCE LPX memory kit keeps its cool."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 16GB (2PK 8GB) 3.0GHz DDR4 Desktop Memory - White",
+            "regularPrice": 74.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/5822462/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822462_sa.jpg",
+            "longDescription": "Enjoy high-performance games and applications with this 16GB Corsair Vengeance memory kit. The pure aluminum heat spreaders on this dual pack of DDR4 memory enable trouble-free overclocking for Intel X99 or 100 Series motherboards. The low-profile design of this Corsair Vengeance memory kit is great for smaller computers with limited space."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 32GB (2PK 16GB) 2.133GHz DDR4 Desktop Memory - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/5822464/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822464_sa.jpg",
+            "longDescription": "Run your gaming computer with optimum performance and efficiency by using this 32GB CORSAIR VENGEANCE memory kit. Its XMP 2.0 support provides automatic overclocking, and its pure aluminum heat spreader maintains a thermally stable operation. The two 16GB DDR4 modules of this CORSAIR VENGEANCE memory kit are compatible with Intel X99 motherboards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 16GB (2PK 8GB) 3.2GHz DDR4 Desktop Memory - White",
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "url": "https://api.bestbuy.com/click/-/5822465/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822465_sa.jpg",
+            "longDescription": "Handle high-bandwidth overclocking demands with this 16GB CORSAIR VENGEANCE LPX memory kit. Its two 8GB modules provide high-speed operation of up to 3200MHz, and it automatically adjusts overclocking performance with its XMP 2.0 support. The DDR4 form factor of this CORSAIR VENGEANCE LPX memory kit runs efficiently with Intel X99 and 100 Series motherboards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 16GB (2PK 8GB) 3.0GHz DDR4 Desktop Memory - Black",
+            "regularPrice": 74.99,
+            "salePrice": 72.99,
+            "url": "https://api.bestbuy.com/click/-/5822467/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822467_sa.jpg",
+            "longDescription": "Increase your overclocking performance with this 16GB CORSAIR VENGEANCE LPX memory kit. Its DDR4 form factor provides low-voltage operation for lower energy consumption and optimal compatibility with Intel X99 and 100 Series motherboards. This CORSAIR VENGEANCE LPX memory kit consists of two 8GB modules, and it stays thermally stable with its pure aluminum heat spreader."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LPX Series 16GB (2PK 8GB) 2.4GHz DDR4 Desktop Memory - Black",
+            "regularPrice": 67.99,
+            "salePrice": 67.99,
+            "url": "https://api.bestbuy.com/click/-/5822470/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822470_sa.jpg",
+            "longDescription": "Drive your high-performance gaming rig with this 16GB Corsair Vengeance LPX memory kit. It consists of two 8GB modules, and its XMP 2.0 support provides automatic overclocking for efficient operation with Intel X99 and 100 motherboards. This DDR4-form-factor Corsair Vengeance LPX memory kit runs with low power consumption at 1.2V."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - DOMINATOR PLATINUM 32GB (2PK 16GB) 3.0GHz DDR4 Desktop Memory with DHX cooling - Black/silver",
+            "regularPrice": 174.99,
+            "salePrice": 174.99,
+            "url": "https://api.bestbuy.com/click/-/5822471/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5822/5822471_sa.jpg",
+            "longDescription": "Unleash full overclocking power with this 3000MHz Corsair Dominator Platinum memory kit. It's optimized for handling intense bandwidth activity with Intel's X99 and 100 series motherboards, and its aluminum heat spreader with patented DHX cooling technology provides efficient thermal management. This 32GB Corsair Dominator Platinum memory kit includes two 16GB DDR4 modules."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE LED Series 16GB (2PK 8GB) 2.4GHz DDR4 Desktop Memory with LED Lighting - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/5823005/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5823/5823005_sa.jpg",
+            "longDescription": "Upgrade your computer's overall performance with this CORSAIR VENGEANCE DDR4 memory. The bold LED lighting and precision engineered light bar add to the look of gaming computer designs, and superior overclocking ensures speedy performance. This CORSAIR VENGEANCE DDR4 is compatibility tested for flawless use with the latest Intel X99, 100, 200 and AMD Ryzen Series gaming motherboards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE RGB Series 16GB (2PK 8GB) 3.0GHz DDR4 Desktop Memory with RGB Lighting - Black",
+            "regularPrice": 109.99,
+            "salePrice": 108.99,
+            "url": "https://api.bestbuy.com/click/-/5823006/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5823/5823006_sa.jpg",
+            "longDescription": "Maximize the overclocking potential of your gaming system with this 16GB CORSAIR VENGEANCE RGB memory kit. Its anodized aluminum heat spreader provides efficient thermal performance, and its low-voltage DDR4 form factor is compatible with Intel 100 and 200 series motherboards. This CORSAIR VENGEANCE RGB memory kit meets your automatic overclocking requirements with its preconfigured XMP 2.0 profiles."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - Anarchy-X 16GB (2PK 8GB) 3.2GHz DDR4 Desktop Memory - Red",
+            "regularPrice": 209.99,
+            "salePrice": 209.99,
+            "url": "https://api.bestbuy.com/click/-/5878702/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5878/5878702_sa.jpg",
+            "longDescription": "Upgrade your computer to handle high-action gaming titles with this PNY Anarchy system memory. Boosting your setup to 16GB DDR4, the easy-to-install card lets you multitask across several platforms without missing a beat. Anarchy X heat spreaders pull heat away from delicate components for reliable speed, and this PNY Anarchy system memory is compatible with Windows 10 and higher."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE RGB Series 32GB (4PK 8GB) 3.6GHz DDR4 Desktop Memory with RGB Lighting - Black",
+            "regularPrice": 454.99,
+            "salePrice": 454.99,
+            "url": "https://api.bestbuy.com/click/-/5901975/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5901/5901975_sa.jpg",
+            "longDescription": "Upgrade your computer with this this CORSAIR VENGEANCE memory kit. The 32GB of RAM ensures fast multitasking and efficient program execution, and this stick supports RGB lighting for customized builds. This Corsair Vengeance memory kit is compatible with the CORSAIR LINK app, so you can monitor temperature and performance from your device."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 4GB 2.4GHz PC4-19200 DDR4 DIMM Unbuffered Non-ECC Desktop Memory - Black",
+            "regularPrice": 22.99,
+            "salePrice": 22.99,
+            "url": "https://api.bestbuy.com/click/-/5989002/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5989/5989002_sa.jpg",
+            "longDescription": "Experience smoother computer operation with this 4GB CORSAIR VENGEANCE LPX memory stick. Its 2400Mhz speed facilitates faster performance, and the anodized aluminum heat spreader provides efficient thermal management to prevent overheating. Install this dual-channel CORSAIR VENGEANCE LPX memory stick in pairs to get a total of 8GB for system stability."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE Series 16GB (2PK 8GB) 2.4GHz DDR4 Laptop Memory - Black",
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "url": "https://api.bestbuy.com/click/-/6063100/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6063/6063100_sa.jpg",
+            "longDescription": "Increase the reliability and performance of your laptop with this CORSAIR DDR4 memory kit. It includes two 8GB memory modules, so you can multitask between programs smoothly, and they seamlessly integrate with sixth-generation Intel Core systems. This CORSAIR DDR4 memory kit runs at 2400MHz, so you can accomplish more tasks in a shorter period."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - VENGEANCE RGB Series 32GB (2PK 16GB) 3.2GHz DDR4 Desktop Memory with RGB Lighting - Black",
+            "regularPrice": 269.99,
+            "salePrice": 269.99,
+            "url": "https://api.bestbuy.com/click/-/6063200/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6063/6063200_sa.jpg",
+            "longDescription": "Optimize overclocking performance with this 32GB CORSAIR VENGEANCE memory kit. Its 3200MHz speed provides powerful support for high-bandwidth multitasking and intense gaming, and it has built-in heat spreaders for thermal stability. The two 16GB modules of this CORSAIR VENGEANCE memory kit have XMP 2.0 support for automatic clock speed setting."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 16GB (2PK 8GB) 3GHz PC4-24000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Cool Gray",
+            "regularPrice": 74.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/6247250/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6247/6247250_sa.jpg",
+            "longDescription": "Unleash the overclocking potential of your gaming rig with this 16GB Corsair Vengeance LPX memory kit. The pure aluminum build offers efficient heat management, and the compact module design is customized to fit smaller spaces. The DDR4 form factor of this Corsair Vengeance LPX memory kit provides great bandwidth with reduced power consumption."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance RGB PRO 16GB (2PK 8GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 94.99,
+            "salePrice": 94.99,
+            "url": "https://api.bestbuy.com/click/-/6256216/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256216_sa.jpg",
+            "longDescription": "Light up your computer with this CORSAIR Vengeance RGB PRO DDR4 RAM. It comes as two 8GB sticks so that you get 16GB to hammer through games, and each stick has RGB LEDs that glow and can be controlled from your computer. Each stick of 3200MHz CORSAIR Vengeance RGB PRO DDR4 RAM is carefully selected and screened for high overclocking potential."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 8GB (2PK 4GB) 2.4GHz PC4-19200 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "url": "https://api.bestbuy.com/click/-/6256217/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256217_sa.jpg",
+            "longDescription": "Upgrade your desktop PC with this 8GB CORSAIR VENGEANCE LPX memory kit. It comes in two 4GB modules, and the eight-layer PCB and pure aluminum heat spreader ensure optimal cooling to support high-performance overclocking. The DDR4 form factor of this 2400MHz CORSAIR VENGEANCE LPX memory kit provides fast responses and power-efficient operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 8GB 2.4GHz PC4-19200 DDR4 DIMM Unbuffered Non-ECC Desktop Memory - Black",
+            "regularPrice": 36.99,
+            "salePrice": 34.99,
+            "url": "https://api.bestbuy.com/click/-/6256218/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256218_sa.jpg",
+            "longDescription": "Improve the performance of your PC with this 8GB CORSAIR Vengeance LPX memory stick. This DDR4 RAM has powerful temporary storage capabilities, letting you run applications and play games with shorter loading times. This CORSAIR Vengeance LPX memory stick can be paired with another of its kind for better results."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 16GB (2PK 8GB) 2.133GHz PC4-17000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 67.99,
+            "salePrice": 67.99,
+            "url": "https://api.bestbuy.com/click/-/6256219/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256219_sa.jpg",
+            "longDescription": "Give your gaming PC a boost with this 16GB CORSAIR VENGEANCE LPX memory kit. The two DDR4 RAM sticks deliver impressive temporary data storage for faster performance, and the pure aluminum build facilitates rapid heat dissipation to prevent overheating. This CORSAIR VENGEANCE LPX memory kit is compatible with most motherboards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance RGB PRO 16GB (2PK 8GB) 2.666GHz PC4-21300 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 84.99,
+            "salePrice": 84.99,
+            "url": "https://api.bestbuy.com/click/-/6256221/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256221_sa.jpg",
+            "longDescription": "Blast through your favorite games or heavy-duty programs with this CORSAIR Vengeance RGB PRO DDR4 RAM. It comes as two sticks so that it's easy to install on suitable 288-pin motherboards, and ultra-bright RGB LEDs let you customize the glow in your PC. Tight screening makes this CORSAIR Vengeance RGB PRO DDR4 RAM ideal for overclocking from its native 2666MHz speed."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance RGB PRO 16GB (2PK 8GB) 3GHz PC4-24000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/6256222/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6256/6256222_sa.jpg",
+            "longDescription": "Get the most out of your gaming PC with this 16GB CORSAIR Vengeance RGB DDR4 RAM. Each of the 8GB sticks snaps into your compatible motherboard, providing a total of 16GB, and extreme performance is assured thanks to the 3000 MHz frequency. Installation is simple thanks to the plug-and-play nature of this CORSAIR Vengeance RGB DDR4 RAM."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 8GB (2PK 4GB) 3GHz PC4-24000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "url": "https://api.bestbuy.com/click/-/6317294/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6317/6317294_sa.jpg",
+            "longDescription": "Increase your computer's running speed with this Corsair VENGEANCE LPX DDR4 memory kit. Its eight-layer PBC and carefully screened ICs are supported by a pure aluminum heat spreader that offers fast, even dissipation to extend its overall overclocking potential. This Corsair VENGEANCE LPX DDR4 memory kit contains two 4GB modules in a low-profile design that's compatible with smaller cases."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance LPX 32GB (2PK 16GB) 2.4GHz PC4-19200 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/6319885/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6319/6319885_sa.jpg",
+            "longDescription": "Achieve peak overclocking performance with this 32GB Corsair Vengeance LPX memory kit. Unique aluminum heat spreaders keep the DDR4 modules cool under pressure, and XMP 2.0 ensures you get reliable performance without any lockups. This Corsair Vengeance LPX memory kit has a small form factor, so it fits inside slimmer cases."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance RGB PRO 32GB (2PK 16GB) 3GHz PC4-24000 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 159.99,
+            "salePrice": 159.99,
+            "url": "https://api.bestbuy.com/click/-/6319887/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6319/6319887_sa.jpg",
+            "longDescription": "Upgrade your gaming PC with this Corsair Vengeance RGB Pro memory kit. It has two 16GB DDR4 memory sticks that add up to 32GB of RAM to boost performance, and the dynamic RGB lighting shows through tower vents and transparent side panels for ambience. This Corsair Vengeance RGB Pro memory kit reduces load times for seamless game play."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Vengeance RGB PRO 32GB (2PK 16GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/6333800/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6333/6333800_sa.jpg",
+            "longDescription": "Improve your gaming experience with this 32GB of Corsair Vengeance RGB Pro DDR4 desktop memory. Optimized on the latest motherboards, this desktop memory provides the bandwidth and response times to accelerate PC and gaming performance. This Corsair Vengeance RGB Pro DDR4 desktop memory has 10 RGB LEDs per module and lets you use the Corsair iCUE software to customize and synchronize lighting."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Dominator Platinum RGB 32GB (4PK 8GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 259.99,
+            "salePrice": 259.99,
+            "url": "https://api.bestbuy.com/click/-/6337722/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6337/6337722_sa.jpg",
+            "longDescription": "Ensure a smooth gaming and work experience with this Corsair Dominator Platinum 32GB DDR4 RAM memory kit. With 32GB of memory, there's plenty of resources to run a host of intensive games and other applications at the same time. This Corsair Dominator Platinum 32GB DDR4 RAM memory kit features LEDs for a stylish appearance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Dominator Platinum RGB 16GB (2PK 8GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit with RGB Lighting - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/6337726/pdp",
+            "customerReviewAverage": 3.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6337/6337726_sa.jpg",
+            "longDescription": "Speed up computers with this Corsair Dominator Platinum 16GB DDR4 memory kit. Rated at 3000Mhz, each 8GB stick ensures quick command processing while multitasking, and the heat spreader maintains optimal temperatures for reliable operation. This Corsair Dominator Platinum 16GB DDR4 memory kit has ample overclocking headroom for excellent performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "CORSAIR - Dominator Platinum RGB 32GB (2PK 16GB) 3.2GHz PC4-25600 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black",
+            "regularPrice": 219.99,
+            "salePrice": 217.99,
+            "url": "https://api.bestbuy.com/click/-/6337727/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6337/6337727_sa.jpg",
+            "longDescription": "Experience faster computing performance with 32GB of Corsair Dominator Platinum RGB DDR4 memory. Speeds of up to 3200MHz enable quick response times, while dual cooling ensures optimal operating temperatures for reliable performance. This Corsair Dominator Platinum RGB DDR4 memory is easy to install and compatible with a number of Intel and AMD motherboards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506001"
+                }
+            ],
+            "name": "PNY - XLR8 16GB (2PK 8GB) 2.666GHz PC4-21300 DDR4 DIMM Unbuffered Non-ECC Desktop Memory Kit - Black/Red",
+            "regularPrice": 104.99,
+            "salePrice": 104.99,
+            "url": "https://api.bestbuy.com/click/-/6346309/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6346/6346309_sa.jpg",
+            "longDescription": "Upgrade system performance with this 16GB PNY desktop memory set. The two 8GB RAM sticks support dual channel mode for increased memory bandwidth. DDR4 technology offers reduced power consumption and fast data transfer rates for improved performance. This 2666MHz PNY desktop memory set has a black-and-red design for easy identification."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0506000"
+                },
+                {
+                    "id": "abcat0506002"
+                }
+            ],
+            "name": "PNY - 8GB 2.4GHz PC4-19200 DDR4 SO-DIMM Unbuffered Non-ECC Laptop Memory - Black",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/6346312/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "PNY",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6346/6346312_sa.jpg",
+            "longDescription": "Improve your PC's response time during intensive tasks with this PNY DDR4 2400MHz notebook memory. The 2400MHz RAM frequency and DDR4 technology offer fast speeds, high bandwidth and enhanced thermal performance. This PNY DDR4 2400MHz notebook memory comes as an 8GB stick for easy upgrading and replacement in various PCs."
+        }
+    ]
+}

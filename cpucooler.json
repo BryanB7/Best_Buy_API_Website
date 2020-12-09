@@ -1,0 +1,202 @@
+{
+    "from": 1,
+    "to": 7,
+    "currentPage": 1,
+    "total": 7,
+    "totalPages": 1,
+    "queryTime": "0.025",
+    "totalTime": "0.047",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=pcmcat339900050006&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "Cooler Master - Hyper 212 EVO 120mm CPU Cooling Fan - Black",
+            "regularPrice": 39.99,
+            "salePrice": 36.99,
+            "url": "https://api.bestbuy.com/click/-/4923764/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "Cooler Master",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4923/4923764_sa.jpg",
+            "longDescription": "This Cooler Master Hyper 212 EVO 120mm fan features Continuous Direct Contact technology to help keep your AMD or Intel&#174; processor cool for efficient operation. The sleeve-bearing design enables up to 40,000 hours of use."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX Series 90mm Hard Swap Interchangeable Fan Kit with LED Lighting - Blue",
+            "regularPrice": 19.99,
+            "salePrice": 19.99,
+            "url": "https://api.bestbuy.com/click/-/5705516/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5705/5705516_sa.jpg",
+            "longDescription": "Handle the extreme performance of your AMD Radeon graphics card with these blue XFX Hard Swap LED fans. They automatically run at optimal performance during intense operation and offer reduced noise with normal loads or when not in use thanks to their zero-dB technology. The tool-free design of these XFX Hard Swap LED fans provides an easy snap-in installation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX Series 90mm Hard Swap Interchangeable Fan Kit with LED Lighting - Red",
+            "regularPrice": 19.99,
+            "salePrice": 19.99,
+            "url": "https://api.bestbuy.com/click/-/5705518/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5705/5705518_sa.jpg",
+            "longDescription": "Customize your graphics card and keep it cool with these red XFX Hard Swap LED fans. They're compatible with select AMD Radeon RX 400 graphics cards."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "XFX - AMD Radeon RX Series 90mm Hard Swap Interchangeable Fan Kit with LED Lighting - White",
+            "regularPrice": 19.99,
+            "salePrice": 19.99,
+            "url": "https://api.bestbuy.com/click/-/5705519/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "XFX",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5705/5705519_sa.jpg",
+            "longDescription": "Prevent your gaming PC from overheating with this XFX LED fan. Its zero-dB fan system adjust to your gaming needs, speeding up during intense sessions and slowing during downtime, and its interchangeable LED color system lets you match the fan to your PC. Service or replace this XFX LED fan quickly with its HardSwap technology."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "CORSAIR - Commander PRO Hardware Controller",
+            "regularPrice": 74.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/6229603/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6229/6229603_sa.jpg",
+            "longDescription": "Mount this CORSAIR Commander PRO module on the outside of your case to closely monitor gaming hardware. It supports up to six fan connectors and four temperature inputs, so you can push your system to its limits and see how it responds. This CORSAIR Commander PRO module lets you manage fan speeds and temperature readings via CORSAIR LINK software."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "Cooler Master - Hyper 212 Black Edition 120mm CPU Cooling Fan - Black",
+            "regularPrice": 39.99,
+            "salePrice": 33.99,
+            "url": "https://api.bestbuy.com/click/-/6316584/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Cooler Master",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6316/6316584_sa.jpg",
+            "longDescription": "Stop your CPU from overheating with this Cooler Master Hyper 212 Black Edition fan. The Silent Driver IC technology keeps noise and power consumption to a minimum, and its four heat pipes effectively dissipate hot air. This Cooler Master Hyper 212 Black Edition fan includes a push-pull configuration to exhaust heat faster."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507007"
+                },
+                {
+                    "id": "pcmcat339900050006"
+                }
+            ],
+            "name": "Cooler Master - Hyper 212 RGB Black Edition 120mm CPU Cooling Fan with RGB Lighting - Black",
+            "regularPrice": 44.99,
+            "salePrice": 38.99,
+            "url": "https://api.bestbuy.com/click/-/6316592/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Cooler Master",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6316/6316592_sa.jpg",
+            "longDescription": "Prevent overheating with this Cooler Master RGB fan. Four heat pipes provide direct contact to maximize heat dissipation, and it's compatible with Motherboard RGB software so you can change its settings to maximum cooling or silent operating. This Cooler Master RGB fan has an anodized aluminum finish to provide a sleek, polished look."
+        }
+    ]
+}

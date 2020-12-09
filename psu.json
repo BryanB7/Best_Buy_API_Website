@@ -1,0 +1,925 @@
+{
+    "from": 1,
+    "to": 38,
+    "currentPage": 1,
+    "total": 38,
+    "totalPages": 1,
+    "queryTime": "0.010",
+    "totalTime": "0.100",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=abcat0507009&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 500W ATX12V / EPS12V 80 Plus Bronze Power Supply - Black",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/1017256/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1017/1017256_sa.jpg",
+            "longDescription": "Deliver up to 500W of continuous power to your computer with this EVGA 500 Bronze 100-B1-0500-KR power supply that features 80PLUS Bronze certification for efficient performance. Heavy-duty protections help ensure safe operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Antec - 450-Watt Power Supply - Black",
+            "regularPrice": 39.99,
+            "salePrice": 39.99,
+            "url": "https://api.bestbuy.com/click/-/4070566/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "Antec",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4070/4070566_sa.jpg",
+            "longDescription": "Get effective power and quiet cooling performance with this Antec 450-watt power supply that features heavy-duty circuitry protection on all rails to help prevent damage from a variety of dangers."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - HXi Series 1200W ATX 80 Plus Platinum Fully Modular Power Supply",
+            "regularPrice": 269.99,
+            "salePrice": 269.99,
+            "url": "https://api.bestbuy.com/click/-/4895507/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895507_sa.jpg",
+            "longDescription": "When you want to install multiple high-power graphics cards, only the Corsair HXi 1200 W power supply will do. Virtually silent operation and incredible cooling reduces the stress on your system, yet its high-performance design makes upgrading your system a breeze. Use the Corsair Link Dashboard application with this Corsair 1200 W power supply for absolute control over its settings."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - HXi Series 850W ATX 80 Plus Platinum Fully Modular Power Supply - Black",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/4895513/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895513_sa.jpg",
+            "longDescription": "Get a power supply that is worthy of your computer with the CORSAIR HX850i power supply. Designed to work in high-performance systems that draw up to 850 W of power, this power supply ensures maximum reliability and reduces the strain on the motherboard. The CORSAIR HX850i power supply helps even out surges and spikes for easy protection."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - RMi Series 850W ATX 80 Plus Gold Fully Modular Power Supply - Black",
+            "regularPrice": 159.99,
+            "salePrice": 159.99,
+            "url": "https://api.bestbuy.com/click/-/4895533/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895533_sa.jpg",
+            "longDescription": "Save money on your next power bill with the CORSAIR RM Series power supply. Built with low-noise capacitors, its whisper-quiet running is won't disturb when in use. The system's high-quality components ensure continuous power. CORSAIR RM Series power supplies feature low-profile cables that are modular so you can accommodate your exact needs."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - RMi Series 1000W ATX 80 Plus Gold Fully Modular Power Supply - Black",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/4895534/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4895/4895534_sa.jpg",
+            "longDescription": "Build your computer with confidence by using this CORSAIR PC power supply. Built using Japanese capacitors, the 80 PLUS Gold certification ensures your computer operates with reduced heat and minimal sound. CORSAIR's unique design also allows desktop control of the fan speed. Bring power to your PC with this CORSAIR PC power supply."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 850W Modular BQ Power Supply - Black",
+            "regularPrice": 119.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/5594501/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5594/5594501_sa.jpg",
+            "longDescription": "Power your customized desktop computer with this EVGA power supply. The large built-in fan prevents it from overheating during heavy use, and the sturdy box construction makes it easy to mount externally or install in your computer shell. This EVGA power supply comes with all the cords needed for installation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 650W ATX Modular GQ Power Supply - Black",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/5597200/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5597/5597200_sa.jpg",
+            "longDescription": "Operate your computer system efficiently with this EVGA GQ power supply. Its 135mm fan operates quietly and only when needed thanks to its power-saving ECO mode. The modular interface of this 80 Plus Gold-certified EVGA GQ power supply provides flexibility in cabling options for improved airflow, convenience and working efficiency."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 750W Modular P2 Power Supply - Black",
+            "regularPrice": 159.99,
+            "salePrice": 147.99,
+            "url": "https://api.bestbuy.com/click/-/5597201/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5597/5597201_sa.jpg",
+            "longDescription": "Power your custom-built desktop computer with this 750W EVGA SuperNova power supply. The built-in fan keeps your components cool with little noise, and modular cabling keeps cords and wires neat. This EVGA SuperNova power supply is platinum-rated for efficiency, so it keeps your computer running at top speed without creating excessive heat."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 1000W ATX12V / EPS12V GQ Modular Power Supply - Black",
+            "regularPrice": 179.99,
+            "salePrice": 150.99,
+            "url": "https://api.bestbuy.com/click/-/5622831/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622831_sa.jpg",
+            "longDescription": "Experience 90 percent efficiency under typical loads with this EVGA power supply. It supports multiple NVIDIA graphics cards so you can enjoy the latest games in vivid detail. Enjoy silent operation under low to medium loads with the ECO mode feature. This EVGA power supply has a semi-modular configuration to facilitate airflow and reduce cable clutter."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 650W Modular BQ Power Supply - Black",
+            "regularPrice": 74.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/5622832/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622832_sa.jpg",
+            "longDescription": "Keep your computer running with this EVGA power supply. It supplies 650W of output to give your gadgets the juice they need, and its ECO mode provides control over performance and efficiency. This EVGA power supply has a quiet 140mm cooling fan for safe operation, and its modular cables reduce clutter."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 850W ATX12V / EPS12V 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 159.99,
+            "salePrice": 159.99,
+            "url": "https://api.bestbuy.com/click/-/5622834/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622834_sa.jpg",
+            "longDescription": "Enjoy silent operation with this EVGA power supply. The ECO mode prevents the fan from running during low to medium loads, activating it only when needed, and the high-quality capacitors deliver 90 percent efficiency under typical loads. This EVGA power supply accommodates multiple NVIDIA graphics cards for high-performance gaming in stunning detail."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 850W ATX12V / EPS12V Modular Power Supply - Black",
+            "regularPrice": 159.99,
+            "salePrice": 159.99,
+            "url": "https://api.bestbuy.com/click/-/5708601/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5708/5708601_sa.jpg",
+            "longDescription": "Support your high-performance computer system with this EVGA SuperNova G3 power supply. Its hydraulic dynamic bearing fan operates quietly and provides outstanding longevity, and a fully modular design provides setup flexibility. This 80 Plus Gold-certified EVGA SuperNova G3 has an 850W power supply to handle maximum loads from multiple components efficiently."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 550W ATX12V / EPS12V Modular Power Supply - Black",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/5753404/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5753/5753404_sa.jpg",
+            "longDescription": "Operate your computer system efficiently with this EVGA SuperNova G3 power supply. It has an ECO mode that provides quiet operation for low to medium loads, and its 550W rating keeps up with the maximum performance of your gaming components. This 80 Plus Gold-certified EVGA SuperNova G3 power supply comes with a heavy-duty circuit protection system to prevent surges."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 1000W ATX12V / EPS12V 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 249.99,
+            "salePrice": 249.99,
+            "url": "https://api.bestbuy.com/click/-/5753406/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5753/5753406_sa.jpg",
+            "longDescription": "Provide powerful support for your extreme gaming system with this EVGA power supply. Its 1000W rating handles the power requirements of your computer and its multiple components at their maximum performance, and its heavy-duty protection system provides operation safety. This compact EVGA power supply is 80 Plus Gold-certified with reliable efficiency even at higher loads."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 750W ATX12V / EPS12V Modular Power Supply - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/5753407/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5753/5753407_sa.jpg",
+            "longDescription": "Provide reliable current for your gaming computer and components with this EVGA power supply. Its high-quality Japanese capacitors with 750W rating provide ample power handling of your computer&#8217;s peak performance, and it runs quietly in ECO mode during low to medium loads. This EVGA power supply lets you customize wiring installations with its fully modular design."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 650W ATX12V / EPS12V Modular Power Supply - Black",
+            "regularPrice": 109.99,
+            "salePrice": 102.99,
+            "url": "https://api.bestbuy.com/click/-/5753408/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5753/5753408_sa.jpg",
+            "longDescription": "Secure your gaming rig and components with this EVGA SuperNova G3 power supply. It's 80 Plus Gold-certified for optimal operating efficiency, and its fully modular design provides flexible cabling setup for enhanced airflow. This 650W EVGA SuperNova G3 power supply operates quietly and has improved longevity thanks to the hydraulic dynamic bearing fan."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - CX-M Series 650W ATX12V 2.4/EPS12V 2.92 80 Plus Bronze Modular Power Supply - Matte black",
+            "regularPrice": 89.99,
+            "salePrice": 79.99,
+            "url": "https://api.bestbuy.com/click/-/5845214/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5845/5845214_sa.jpg",
+            "longDescription": "Power your custom-built computer with this CORSAIR power supply. It's built for efficient operation, so it saves energy and doesn&#8217;t produce much heat, and it operates quietly at slow and medium speeds for a better work environment. The modular cable system of this CORSAIR power supply provides easy, clutter-free installation in compatible ATX desktop cases."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - HX Series 1200W ATX12V 2.4/EPS12V 2.92 80 Plus Platinum Modular Power Supply - Black",
+            "regularPrice": 239.99,
+            "salePrice": 239.99,
+            "url": "https://api.bestbuy.com/click/-/5885000/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5885/5885000_sa.jpg",
+            "longDescription": "Power your high-performance computer with this CORSAIR HX Series fully modular power supply. It has overvoltage and undervoltage protection to keep your PC safe, and its fan only speeds up when it needs to, ensuring quiet operation. This CORSAIR HX Series fully modular power supply has 105-degree Celsius capacitors for reliability."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Insignia\u2122 - 550W ATX12V 2.4/EPS12V 2.92 80 Plus Bronze Power Supply - Gray",
+            "regularPrice": 54.99,
+            "salePrice": 34.99,
+            "url": "https://api.bestbuy.com/click/-/5974702/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Insignia\u2122",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5974/5974702_sa.jpg",
+            "longDescription": "Add this Insignia power supply to your next desktop computer build. It delivers 550W RMS of stable, continuous power for your system, and its thermostat-controlled 120mm fan runs quietly, so it won't interfere with indoor activities. This Insignia power supply has short circuit defense and overvoltage protection for added safety."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Insignia\u2122 - 450W ATX12V 2.4/EPS12V 2.92 80 Plus Power Supply - Gray",
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "url": "https://api.bestbuy.com/click/-/5976300/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "Insignia\u2122",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5976/5976300_sa.jpg",
+            "longDescription": "Keep your computer running well with this Insignia power supply. It produces 450W for better game and program performance, and its short circuit and over/under voltage protection prevent surges from harming your electronic devices. This Insignia power supply has a thermostat-controlled, low-noise fan to regulate temperatures without causing any disturbances."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - RMx Series 1000W ATX12V 2.4/EPS12V 2.92 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 189.99,
+            "salePrice": 189.99,
+            "url": "https://api.bestbuy.com/click/-/6073500/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6073/6073500_sa.jpg",
+            "longDescription": "Run your high-performance PC with this CORSAIR RMx power supply. It&#8217;s made with Japanese 105 degree C capacitors for solid durability, and its Zero RPM fan mode provides optimal cooling and quiet operation for low-to-medium loads. This 80 PLUS Gold-certified CORSAIR RMx power supply comes with a fully modular cable set for efficient, clutter-free installation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - SMART PRO RGB 750W ATX12V 2.4/EPS12V 2.92 Modular Power Supply - Black",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/6088103/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6088/6088103_sa.jpg",
+            "longDescription": "Maintain the optimal temperature of your machine with this Thermaltake fan. Designed to increase static pressure, the fan blade pushes out weaker air to pressurize the air, and the anti-vibration mounting system minimizes movement during use for stability. This Thermaltake fan has a face-up design, so you can see the RGB lights."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - ToughPower Grand RGB 1200W ATX12V 2.4/EPS12V 2.92 80 Plus Platinum Modular Power Supply - Black",
+            "regularPrice": 219.99,
+            "salePrice": 219.99,
+            "url": "https://api.bestbuy.com/click/-/6196403/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6196/6196403_sa.jpg",
+            "longDescription": "Handle intense computing with this 1200W Thermaltake Toughpower Grand power supply. Its 80 PLUS Platinum certification ensures solid, energy-efficient performance, and its fan with concentrated compression blades and anti-vibration mounting system provides optimal, low-noise cooling. The RGB LED ring of this fully modular Thermaltake Toughpower Grand power supply has five lighting modes for an enhanced aesthetic."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - ToughPower Grand RGB 850W ATX12V 2.4/EPS12V 2.92 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 129.99,
+            "salePrice": 127.99,
+            "url": "https://api.bestbuy.com/click/-/6200000/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6200/6200000_sa.jpg",
+            "longDescription": "Run your custom desktop with this 80 PLUS Gold-rated Thermaltake Toughpower Grand power supply. Its fully modular design enables a flexible, space-efficient cabling setup, and its customizable RGB LED ring makes it visually distinct. The hydraulic bearing fan of this 850W Thermaltake Toughpower Grand power supply has an anti-vibration mounting system for quiet operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 650W 80 Plus Gold Power Supply - Black",
+            "regularPrice": 109.99,
+            "salePrice": 94.99,
+            "url": "https://api.bestbuy.com/click/-/6204517/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6204/6204517_sa.jpg",
+            "longDescription": "Equip your custom-built desktop computer with stable power using this 650W EVGA power supply. It's fully modular and has an uncluttered internal layout that improves airflow, and its fluid dynamic bearings result in a quieter, longer-lasting fan. The smaller size of this 80 Plus Gold certified EVGA power supply provides more space without compromising performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 1000W ATX /EPS 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 199.99,
+            "salePrice": 159.99,
+            "url": "https://api.bestbuy.com/click/-/6209800/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6209/6209800_sa.jpg",
+            "longDescription": "Build a? computer? system your way with the EVGA Supernova power supply. Small but mighty, it provides a reliable power source with a small footprint that leaves space for additional components in your computer case. The EVGA Supernova features fluid bearings for quiet performance and uses authentic Japanese capacitors for a long and reliable life."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - RMx Series 850W ATX12V 2.4/EPS12V 2.92 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 139.99,
+            "salePrice": 139.99,
+            "url": "https://api.bestbuy.com/click/-/6229601/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6229/6229601_sa.jpg",
+            "longDescription": "Build an efficient, high-performance computer with this 850W Corsair RMx power supply unit. Its industrial-grade Japanese capacitors ensure solid power delivery, and it's fully modular for flexible configuration. Set this 80 PLUS Gold-rated Corsair RMx power supply unit on zero fan mode for quiet operation during low and medium loads."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - RMx Series 750W ATX12V 2.4/EPS12V 2.92 80 Plus Gold Modular Power Supply - Black",
+            "regularPrice": 129.99,
+            "salePrice": 129.99,
+            "url": "https://api.bestbuy.com/click/-/6229604/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6229/6229604_sa.jpg",
+            "longDescription": "Support your custom desktop with this 750W Corsair RMx power supply. It has an 80 PLUS Gold efficiency rating for lower power consumption, and its 100 percent Japanese capacitors provide long-lasting performance. This fully modular Corsair RMx power supply lets you set up a tidy computer hardware system with plenty of power."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - SMART 700W ATX12V 2.3 80 Plus Power Supply - Black",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/6231802/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6231/6231802_sa.jpg",
+            "longDescription": "Build an efficient desktop computer with this 700W Thermaltake smart power supply. Its high 80 percent efficiency rate provides energy-saving operations, and its single +12V rail design lets you achieve stable, reliable performance for long hours of usage. This Thermaltake smart power supply has an intelligent 120m cooling fan that delivers low noise level operations."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "GAMDIAS - 750W ATX12V 2.2 80 Plus Bronze Power Supply - Black",
+            "regularPrice": 84.99,
+            "salePrice": 84.99,
+            "url": "https://api.bestbuy.com/click/-/6304830/pdp",
+            "customerReviewAverage": 4.0,
+            "manufacturer": "GAMDIAS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6304/6304830_sa.jpg",
+            "longDescription": "Delight gamers with the silent operation and high efficiency of this Gamdias power supply. Its fan lies face up for efficient cooling, and it displays one of 26 multicolored lighting effects at the touch of a button. Enjoy the quiet, reliable operation and comprehensive protection of this Gamdias power supply."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "GAMDIAS - 1200W ATX12V 2.4/EPS12V 2.92 80 Plus Platinum Modular Power Supply - Black",
+            "regularPrice": 279.99,
+            "salePrice": 230.99,
+            "url": "https://api.bestbuy.com/click/-/6304831/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "GAMDIAS",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6304/6304831_sa.jpg",
+            "longDescription": "Reclaim efficiency and boost control with this 80 PLUS Platinum Gamdias Cyclops power supply. It lets you combine multiple GPUs for even stronger operations during game play, and the Japanese capacitors stabilize conductivity for a smooth flow. This Gamdias Cyclops power supply lets you place the fan face-up to improve ventilation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Cooler Master - MWE Gold 750W ATX12V 2.31 80 Plus Gold Modular Power Supply DC-DC Technology - Black",
+            "regularPrice": 119.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/6333805/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "Cooler Master",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6333/6333805_sa.jpg",
+            "longDescription": "Protect your computer from over current and short circuits with this Cooler Master MWE gold full-modular power supply. Full-modular cable management improves airflow and minimizes clutter in the chassis, while a whisper-quiet Silencio fan with LDB bearings ensures longer service life. This Cooler Master MWE gold full-modular power supply features DC-to-DC and synchronous technologies for reliability and stability."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - SMART 700W ATX 80 Plus Power Supply - Black",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/6339087/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6339/6339087_sa.jpg",
+            "longDescription": "Power up gaming desktops with this Thermaltake Smart power supply. A continuous 700W power output keeps demanding computer setups energized, while the industry-grade power, voltage and short-circuit protections safeguard sensitive components. This Thermaltake Smart power supply has an embedded 120mm cooling fan that disperses heat efficiently without producing distracting noise."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 700W ATX12V /EPS12V 80 Plus Bronze Power Supply DC-DC Technology - Black",
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "url": "https://api.bestbuy.com/click/-/6346160/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6346/6346160_sa.jpg",
+            "longDescription": "Develop a high-performance computer and support high-end graphics cards with this 700W EVGA 700BR power supply. Heavy-duty protections help keep delicate electronics safe, while the intelligent automatic fan offers near-silent performance. This 80 PLUS Bronze-certified EVGA 700BR power supply reduces electricity use, and active power-factor correction minimizes interference for increased efficiency and reliability."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "CORSAIR - CX Series Modular CX750M 750W 80 Plus Bronze ATX Power Supply - Black",
+            "regularPrice": 99.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/8324202/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "CORSAIR",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/8324/8324202_sa.jpg",
+            "longDescription": "This Corsair CX Series Modular CX750M CP-9020061-NA power supply features over- and under-voltage, over-power and short-circuit protection to prevent damage to your components. The flexible modular cabling system accommodates your system configuration."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "EVGA - 600W ATX 12V/EPS 12V 80 Plus Power Supply - Black",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/8511029/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "EVGA",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/8511/8511029_sa.jpg",
+            "longDescription": "Create a functional, efficient computer by adding this 600W EVGA 80 PLUS 100-W1-0600-K1 ATX 12V/EPS 12V power supply to your custom build. An ultraquiet, intelligent auto fan cools components without generating much noise during operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507009"
+                }
+            ],
+            "name": "Thermaltake - Smart Series 650W ATX 12V v2.3/EPS 12V 80 Plus Power Supply - Black",
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "url": "https://api.bestbuy.com/click/-/8733872/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Thermaltake",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/8733/8733872_sa.jpg",
+            "longDescription": "This Thermaltake SMART Series SP-650P power supply delivers 650W maximum output and 780W peak output and supports Intel&#174; ATX 12V v2.3 and EPS 12V standards. A 120mm fan with intelligent temperature control cools your components."
+        }
+    ]
+}

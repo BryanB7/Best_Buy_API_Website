@@ -1,0 +1,1552 @@
+{
+    "from": 1,
+    "to": 57,
+    "currentPage": 1,
+    "total": 57,
+    "totalPages": 1,
+    "queryTime": "0.026",
+    "totalTime": "0.156",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=pcmcat270900050001&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "HGST - Travelstar 5K1000 1TB Internal SATA Hard Drive for Laptops (OEM/Bare Drive)",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/1578004/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "HGST",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1578/1578004_sa.jpg",
+            "longDescription": "House plenty of files on your Windows or Mac laptop by installing this HGST Travelstar 5K1000 0J22413 internal SATA hard drive, which features a 1TB capacity for ample storage. Speeds up to 998MB/sec. promote rapid data transfer."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Red 1TB Internal SATA NAS Hard Drive (OEM/Bare Drive)",
+            "regularPrice": 68.99,
+            "salePrice": 68.99,
+            "url": "https://api.bestbuy.com/click/-/1765078/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/1765/1765078_sa.jpg",
+            "longDescription": "Expand your network storage with this 1TB WD Red WD10JFCX internal hard drive, which runs at a low temperature for added reliability. The drive reduces data loss by completing the command in process before shutting down in the event of a power failure."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 750GB Internal Serial ATA Hard Drive for Laptops (OEM/Bare Drive)",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/2399001/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/2399/2399001_sa.jpg",
+            "longDescription": "Store your favorite photos, music, films and more on this WD Blue WD7500BPVXSP internal hard drive, which features 750GB of space. NoTouch Ramp Load technology and StableTrac technology offer reliability in your laptop."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Red 4TB Internal SATA Hard Drive (OEM/Bare Drive)",
+            "regularPrice": 149.99,
+            "salePrice": 128.99,
+            "url": "https://api.bestbuy.com/click/-/2452034/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/2452/2452034_sa.jpg",
+            "longDescription": "This WD Red WD40EFRX internal hard drive is designed for NAS systems with 1-8 drive bays in both 3.5\" form factors. Its 4TB capacity provides plenty of space to house files, and the Serial ATA interface lets you connect your laptop or desktop."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Black 2TB Internal Serial ATA Hard Drive (OEM/Bare Drive)",
+            "regularPrice": 119.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/3055346/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/3055/3055346_sa.jpg",
+            "longDescription": "This WD Black WD2003FZEX internal hard drive safeguards up to 2TB of digital data with Corruption Protection technology, which limits data loss during a power failure. StableTrac technology reduces system-induced vibrations for increased performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Black 1TB Internal Serial ATA Hard Drive (OEM/Bare Drive)",
+            "regularPrice": 72.99,
+            "salePrice": 72.99,
+            "url": "https://api.bestbuy.com/click/-/3055382/pdp",
+            "customerReviewAverage": 4.2,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/3055/3055382_sa.jpg",
+            "longDescription": "This WD Black WD1003FZEX SATA internal hard drive provides 1TB of storage, so you can easily house plenty of pictures, videos, music and other important files on your Windows or Mac desktop."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Black 500GB Internal SATA Hard Drive for Laptops",
+            "regularPrice": 52.99,
+            "salePrice": 52.99,
+            "url": "https://api.bestbuy.com/click/-/3530928/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/3530/3530928_sa.jpg",
+            "longDescription": "Add power to your computing with this WD 500GB internal hard drive, which is ideal for everything from graphics to gaming. Made for compatibility with 2.5-inch SATA 6 ports, this drive offers fast dual transfer rates for reliable power. The 32 MB cache on this WD 500GB internal hard drive provides dependable performance no matter the task."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 500GB Internal SATA Hard Drive",
+            "regularPrice": 49.99,
+            "salePrice": 48.99,
+            "url": "https://api.bestbuy.com/click/-/4830705/pdp",
+            "customerReviewAverage": 4.4,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4830/4830705_sa.jpg",
+            "longDescription": "Build extra application space into your laptop with this WD Blue internal hard drive, featuring 6 GB/s transfers speeds for reliable performance. The low-power-consumption design gives you more freedom to run your applications without worrying about eating up battery life, and this WD Blue internal hard drive features noise-reducing technology for seamless, quiet integration."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 500GB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 49.99,
+            "salePrice": 47.99,
+            "url": "https://api.bestbuy.com/click/-/4842401/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/4842/4842401_sa.jpg",
+            "longDescription": "Beef up your desktop or laptop computer's performance with this WD Blue internal hard drive. The upgrade is simple, using Acronis True Image WD edition software, and the 6 GB/s transfer speed offers reliable power for running your applications. This WD Blue internal hard drive features NoTouch Ramp Load technology, extending the life of the recording head."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - NAS 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 134.99,
+            "salePrice": 134.99,
+            "url": "https://api.bestbuy.com/click/-/5067800/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5067/5067800_sa.jpg",
+            "longDescription": "Add extra storage to your network attached storage with this Western Digital 4TB NAS hard drive. It is designed to cope with the demands placed on it by your NAS system, and it's extremely energy efficient to reduce your overall energy consumption. The Western Digital 4TB NAS hard drive seamlessly integrates with your system."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Surveillance 1TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 64.99,
+            "salePrice": 64.99,
+            "url": "https://api.bestbuy.com/click/-/5193300/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5193/5193300_sa.jpg",
+            "longDescription": "Provide ample storage space for your security camera footage with this WD surveillance storage hard drive. This storage device provides support for up to 32 HD cameras, keeping all your footage ready for reference as needed. Featuring Allframe technology, this WD surveillance storage hard drive reduces frame loss for crisp, precise playback."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Surveillance 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 139.99,
+            "salePrice": 139.99,
+            "url": "https://api.bestbuy.com/click/-/5193303/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5193/5193303_sa.jpg",
+            "longDescription": "Back up your security camera footage with this WD surveillance retail kit. The IntelliSeek technology lowers power consumption to deliver long-lasting use in your computer, and the optimized design supports up to eight drives and 32 HD cameras. Featuring 4TB of storage, this WD surveillance retail kit stores your footage for convenient playback."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 119.99,
+            "salePrice": 101.99,
+            "url": "https://api.bestbuy.com/click/-/5537810/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5537/5537810_sa.jpg",
+            "longDescription": "Boost the capabilities of your all-in-one PC or laptop with this WD Blue internal hard drive. The standard 3.5-inch form factor integrates easily with your motherboard, and 4 TB storage offers ample space for games, video libraries and massive quantities of data. This WD Blue internal hard drive features Ramp Load technology to extend the life of the recording head."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 500GB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/5552300/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5552/5552300_sa.jpg",
+            "longDescription": "Work or game with the reliable capacity of this WD Blue PC hard drive, featuring NoTouch Ramp Load technology to protect your data. With a larger capacity drive, this internal hard drive offers dependable storage and performance for games or graphic work. This WD Blue PC hard drive uses lower power consumption for longer operating times."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Toshiba - 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 129.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/5622845/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Toshiba",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622845_sa.jpg",
+            "longDescription": "Add 4TB of storage space to your computer with this Toshiba internal hard drive. Ramp-loading and drive-stabilization technology provide durability to keep your data safe. Its 6-Gbps interface supports fast, uninterrupted data transfers. This Toshiba internal hard drive has Native Command Queuing support for increased performance with a reduced mechanical workload."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Toshiba - 1TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/5622846/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Toshiba",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622846_sa.jpg",
+            "longDescription": "Upgrade your desktop PC with this Toshiba internal hard drive. Its 1TB capacity offers plenty of storage space for your data, while the 7200 rpm operating speed delivers blazing performance. This Toshiba internal hard drive supports the SATA 3.0 interface to deliver file transfer rates of up to 6 Gbps."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Toshiba - 6TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 191.99,
+            "salePrice": 172.99,
+            "url": "https://api.bestbuy.com/click/-/5622854/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "Toshiba",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5622/5622854_sa.jpg",
+            "longDescription": "Upgrade your computer's storage space with this Toshiba desktop internal hard drive. It has a capacity of 6TB and a SATA 3.0 interface that transfers information at 6 Gbps. Native Command Queuing technology delivers a higher level of performance and reduced wear and tear on this Toshiba desktop internal hard drive for greater reliability."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 1TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/5638723/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5638/5638723_sa.jpg",
+            "longDescription": "Secure important documents and high-resolution files with this Western Digital Blue PC hard drive. Its NoTouch ramp load technology keeps the recording head in a safe position off the disk surface to prevent drive damage and protect stored data. This 1TB Western Digital Blue PC hard drive optimizes read operations with its 64MB cache memory."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 3TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 91.99,
+            "salePrice": 91.99,
+            "url": "https://api.bestbuy.com/click/-/5638726/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5638/5638726_sa.jpg",
+            "longDescription": "Keep precious files safe and accessible with this Western Digital Blue PC hard drive. Its IntelliSeek function reduces power use, noise and vibration by calculating the most efficient seek speeds. With its 5400 rpm SATA III interface and 6 Gbps bandwidth, this 3TB Western Digital Blue PC hard drive provides fast, efficient read and write performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 6TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 214.99,
+            "salePrice": 183.99,
+            "url": "https://api.bestbuy.com/click/-/5638729/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5638/5638729_sa.jpg",
+            "longDescription": "Store a library of files on your desktop with this Western Digital Blue hard drive. It stores up to 6TB of data and has a SATA 6 Gbps interface for high-speed performance. This Western Digital Blue hard drive uses IntelliSeek technology to increase its reliability by reducing both power consumption and vibration."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Red Pro 2TB Internal SATA NAS Hard Drive for Desktops",
+            "regularPrice": 134.99,
+            "salePrice": 118.99,
+            "url": "https://api.bestbuy.com/click/-/5638732/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5638/5638732_sa.jpg",
+            "longDescription": "Invest in high-performance data storage for your business with this Western Digital Red NAS hard drive. Its exclusive NASware 3.0 technology guards your business information with reliable error recovery controls. This 2TB Western Digital Red NAS hard drive protects multi-drive bays against vibration and damage from heavy operations with its multi-axis shock sensor."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - FireCuda 1TB Internal SATA Hybrid Hard Drive for Desktops",
+            "regularPrice": 84.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/5657968/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5657/5657968_sa.jpg",
+            "longDescription": "Enjoy both speed and high capacity with this 1TB Seagate FireCuda solid state hybrid drive. It has a SATA interface for compatibility with portable enclosures, and it uses flash memory for speeds up to 190MB/sec. and an average seek time of 8.5 ms. This Seagate FireCuda solid state hybrid drive uses power efficiently, resulting in less heat and better performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Enterprise Capacity 3.5 HDD V.5 2TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 163.99,
+            "salePrice": 136.99,
+            "url": "https://api.bestbuy.com/click/-/5657971/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5657/5657971_sa.jpg",
+            "longDescription": "Protect important information with this enterprise-class 2TB Seagate internal hard drive. It uses a SATA III interface to provide speedy transfer rates of up to 215 MB/sec., and plug-and-play connectivity makes installation easy, even in RAID setups. The 7200 rpm spindle speed ensures rapid responses when reading data from this Seagate internal hard drive."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - FireCuda 2TB Internal SATA Hybrid Hard Drive for Desktops",
+            "regularPrice": 109.99,
+            "salePrice": 106.99,
+            "url": "https://api.bestbuy.com/click/-/5657978/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5657/5657978_sa.jpg",
+            "longDescription": "Enjoy blazing speeds with this Seagate FireCuda solid-state hybrid drive. It's made specifically for gaming, so it boots quicker, loads applications more rapidly and responds up to five times faster than standard 7200 rpm drives. This Seagate FireCuda solid-state hybrid drive holds up to 2TB of files, and it's just as useful for creative professionals as it is for gamers."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - IronWolf 10TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 469.99,
+            "salePrice": 312.99,
+            "url": "https://api.bestbuy.com/click/-/5707119/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5707/5707119_sa.jpg",
+            "longDescription": "Store precious digital data securely on this Seagate IronWolf internal hard drive. Its massive 10TB capacity holds an enormous number of files, and the 180TB/year workload rating lets the drive easily handle multiple users and large data transfers. The 256MB cache in this Seagate IronWolf internal hard drive provides rapid data processing."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda 1TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 55.99,
+            "salePrice": 43.99,
+            "url": "https://api.bestbuy.com/click/-/5707124/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5707/5707124_sa.jpg",
+            "longDescription": "Upgrade your computer's storage with this 1TB Seagate BarraCuda hard drive. It has a SATA 3 interface to boost burst performance and a 7200 rpm spindle speed to provide fast access to the drive's data. The maximum transfer rate of 210MB/sec. ensures this Seagate BarraCuda hard drive responds rapidly to data requests."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda Pro 6TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 318.99,
+            "salePrice": 239.99,
+            "url": "https://api.bestbuy.com/click/-/5707131/pdp",
+            "customerReviewAverage": 4.0,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5707/5707131_sa.jpg",
+            "longDescription": "Store your movies, music and documents on this Seagate BarraCuda Pro internal hard drive. It has a maximum sustained transfer speed of 220MB/sec. for fast, dependable data retrieval, making it ideal for creative professionals and business data users. This 6TB Seagate BarraCuda Pro internal hard drive fits 3.5-inch enclosures for easy use in servers and desktops."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - SkyHawk Surveillance HDD 2TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 86.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/5707133/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5707/5707133_sa.jpg",
+            "longDescription": "Keep your security system at the ready with this Seagate SkyHawk internal hard drive. Built specifically for surveillance, it holds up to 2TB of video and has Image Perfect firmware to provide crisp images for continuously recording CCTV setups. This Seagate SkyHawk internal hard drive can sustain data transfer rates of up to 180MB/sec. for rapid data retrieval."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - NAS 6TB Internal SATA NAS Hard Drive for Desktops",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/5723344/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5723/5723344_sa.jpg",
+            "longDescription": "Build a robust shared storage system with this Western Digital Red NAS hard drive. Its NASware 3.0 technology provides for reliable performance in purpose-built NAS systems and RAID environments, and its error-recovery controls secure shared files against system failures. This 6TB Western Digital Red NAS hard drive is suitable for installation within up to eight drive bays."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Black Performance 1TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 74.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/5792406/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5792/5792406_sa.jpg",
+            "longDescription": "Store edited photos and videos on this 3.5-inch Western Digital hard drive. It has dynamic cache for optimizing allocation between reads and writes, and there&#8217;s plenty of space to store files with its 1TB capacity. This Western Digital hard drive has data transfer rates up to 6 Gbps for efficient performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Guardian BarraCuda 1TB Internal SATA Hard Drive for Laptops",
+            "regularPrice": 59.99,
+            "salePrice": 52.99,
+            "url": "https://api.bestbuy.com/click/-/5795713/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5795/5795713_sa.jpg",
+            "longDescription": "Save more files and access them quickly with this 1TB Seagate BarraCuda hard drive. Its 140MB/sec. data transfer rate makes moving and downloading files fast and easy, and its slim design adds almost no weight to your computer. This Seagate BarraCuda hard drive is only 7mm thick and can fit into thin laptops."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Guardian BarraCuda 2TB Internal SATA Hard Drive for Laptops",
+            "regularPrice": 98.99,
+            "salePrice": 98.99,
+            "url": "https://api.bestbuy.com/click/-/5858301/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/5858/5858301_sa.jpg",
+            "longDescription": "BarraCuda leads the industry with the highest capacities for desktops and mobile computers. The uncompromising BarraCuda Pro marries industry-leading storage capacity with 5,400-RPM spin speeds for snappy performance and load times when gaming or performing heavy workloads.Get the most out of your storage with BarraCuda hard drives. From computers full of photos and memories to gaming PCs that need more room to play, BarraCuda grows with you."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda 2TB Internal SATA Hard Drive for Laptops",
+            "regularPrice": 84.99,
+            "salePrice": 84.99,
+            "url": "https://api.bestbuy.com/click/-/6164931/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6164/6164931_sa.jpg",
+            "longDescription": "Ensure reliable data storage with this 2TB Seagate BarraCuda internal hard-disk drive. Its 2.5-inch form factor is suitable for laptops and all-in-one PCs, and its SATA III 6 Gbps interface and 128MB cache let you transfer files smoothly at up to 140MB/sec. The Multi-Tier Caching Technology of this Seagate BarraCuda internal hard-disk drive optimizes data flow for faster memory performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - FireCuda 2TB Internal SATA Hybrid Hard Drive for Desktops",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/6164932/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6164/6164932_sa.jpg",
+            "longDescription": "Increase the storage capacity of your desktop or workstation with this Seagate FireCuda hard drive. Its 2TB file capacity provides plenty of room for holding photos, games and documents, and the 8GB of solid-state cache delivers quick access to frequently used data. This Seagate FireCuda hard drive has a SATA III interface for running at speeds up to 6 Gbps."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/6164933/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6164/6164933_sa.jpg",
+            "longDescription": "Increase PC storage with this Seagate BarraCuda 4TB hard drive. Its 3.5-inch form factor installs smoothly into your desktop or all-in-one PC, and the SATA III interface provides fast operating speeds at 6 Gbps. This Seagate BarraCuda 4TB hard drive is highly reliable thanks to its rating of 300,000 load/unload cycles."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda 1TB Internal SATA Hard Drive for Laptops",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/6164934/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6164/6164934_sa.jpg",
+            "longDescription": "Load multiple files and applications on your laptop smoothly with this 1TB Seagate BarraCuda internal hard-disk drive. Its 128MB cache with Multi-Tier Caching Technology provides faster data performance, and its 2.5-inch profile is also compatible with all-in-one and slim PCs. The SATA III 6 Gbps interface of this Seagate BarraCuda internal hard-disk drive enables efficient transfer speeds up to 140MB/sec."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - FireCuda 1TB Internal SATA Hybrid Hard Drive for Laptops",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/6164936/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6164/6164936_sa.jpg",
+            "longDescription": "Optimize storage performance for your gaming computer with this 1TB Seagate FireCuda internal hybrid drive. Its solid-state cache and SATA III 6 Gbps interface provide efficient data transfers up to 140MB/sec., and it saves on power consumption thanks to its green hybrid technology. The 2.5-inch profile of this Seagate FireCuda internal hybrid drive is also suitable for workstation desktop PCs."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 2TB Internal SATA Hard Drive for Laptops with NoTouch Ramp Load Technology",
+            "regularPrice": 84.99,
+            "salePrice": 84.99,
+            "url": "https://api.bestbuy.com/click/-/6220725/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6220/6220725_sa.jpg",
+            "longDescription": "Upgrade your laptop with this 2.5-inch Western Digital 2TB SATA internal hard drive. Its dual processor has a dynamic cache to speed up read and write times, while a 5400 rpm drive speed ensures efficient performance. This Western Digital 2TB SATA internal hard drive maintains a space between the recording head and the disk to reduce wear."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Samsung - Geek Squad Certified Refurbished 970 EVO 250GB Internal PCI Express 3.0 x4 (NVMe) SSD for Laptops with V-NAND Technology",
+            "regularPrice": 99.99,
+            "salePrice": 39.99,
+            "url": "https://api.bestbuy.com/click/-/6315437/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Samsung",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6315/6315437_sa.jpg",
+            "longDescription": "Geek Squad&#174; Certified Refurbished products are thoroughly, painstakingly and lovingly tested, so you can be sure that your device will work right, right away. Learn more about Geek Squad&#174; Certified Refurbished products.Run programs faster with this Samsung 970 EVO 250GB SSD. The NVMe interface utilizes minimal power and offers increased bandwidth for better performance, and read speeds up to 3300 Mbps provide rapid data access. This Samsung 970 EVO 250GB SSD includes management software, providing optimization tools and automatic firmware updates for simple maintenance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Samsung - Geek Squad Certified Refurbished 970 EVO 500GB Internal PCI Express 3.0 x4 (NVMe) SSD for Laptops with V-NAND Technology",
+            "regularPrice": 149.99,
+            "salePrice": 74.99,
+            "url": "https://api.bestbuy.com/click/-/6315438/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Samsung",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6315/6315438_sa.jpg",
+            "longDescription": "Geek Squad&#174; Certified Refurbished products are thoroughly, painstakingly and lovingly tested, so you can be sure that your device will work right, right away. Learn more about Geek Squad&#174; Certified Refurbished products.Increase system performance with this Samsung EVO NVMe internal SSD. Sequential read speeds of up to 3400 Mbps and sequential write speeds up to 2300 Mbps ensure quick file access, while the 500GB capacity provides ample data storage. This Samsung EVO NVMe internal SSD features overheating protection technology to maintain optimal temperatures for reliable performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Blue 1TB Internal SATA Hard Drive for Desktops (OEM/Bare Drive)",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/6331502/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6331/6331502_sa.jpg",
+            "longDescription": "With a Serial ATA interface, this WD Blue WD10EZEXSP internal hard drive easily connects to your PC or Mac. The 1TB capacity offers ample space to house important files, such as pictures, videos and music."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Toshiba - L200 Laptop PC 1TB Internal SATA Hard Drive for Laptops with Advanced Format Technology",
+            "regularPrice": 47.99,
+            "salePrice": 47.99,
+            "url": "https://api.bestbuy.com/click/-/6333392/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Toshiba",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6333/6333392_sa.jpg",
+            "longDescription": "Expand data storage capacities with this Toshiba L200 laptop PC internal hard drive. The 1TB capacity lets your laptop store more pictures, songs and videos, while the low-power profile helps improve battery life. A 128MB cache and advanced cache technology enhance the performance of this Toshiba L200 laptop PC internal hard drive."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Seagate - Barracuda 2TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 59.99,
+            "salePrice": 59.99,
+            "url": "https://api.bestbuy.com/click/-/6344172/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Seagate",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6344/6344172_sa.jpg",
+            "longDescription": "Enjoy ample storage space with this Seagate 2TB internal hard drive. The SATA III interface delivers transfer speeds of up to 6Gbps for prompt data access, and the 3.5-inch design fits most desktops without needing an adapter. This Seagate 2TB internal hard drive is compatible with multiple versions of Windows for convenience."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Red 1TB Internal SATA NAS Hard Drive for Desktops",
+            "regularPrice": 64.99,
+            "salePrice": 64.99,
+            "url": "https://api.bestbuy.com/click/-/6520452/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6520/6520452_sa.jpg",
+            "longDescription": "Give your system additional storage space with this Western Digital Red Pro 1TB hard drive. Designed to handle business-class data, this rugged device works in medium and large-scale NAS environments and is easy to be integrated into your existing setup. A multi-axis shock sensor keeps this Western Digital Red Pro 1TB hard drive stable and reliable in multi-drive bays."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Black 500GB Internal Serial ATA Hard Drive for Desktops (OEM/Bare Drive)",
+            "regularPrice": 79.99,
+            "salePrice": 63.99,
+            "url": "https://api.bestbuy.com/click/-/6520461/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6520/6520461_sa.jpg",
+            "longDescription": "This WD Black WD5003AZEX internal hard drive features NoTouch Ramp Load technology, which prevents wear and tear on the drive for increased durability. The 64MB cache buffer offers speedy processing for efficient performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Red 2TB Internal SATA Hard Drive (OEM/Bare Drive)",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/6560007/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6560/6560007_sa.jpg",
+            "longDescription": "With 2TB of storage, this WD Red WD20EFRX internal hard drive makes it easy to house your important files on your small NAS system. The Serial ATA interface lets you connect to your Windows or Mac desktop."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "Toshiba - 3TB Internal Serial ATA III Hard Drive for Desktops",
+            "regularPrice": 139.99,
+            "salePrice": 139.99,
+            "url": "https://api.bestbuy.com/click/-/7479294/pdp",
+            "customerReviewAverage": 4.6,
+            "manufacturer": "Toshiba",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/7479/7479294_sa.jpg",
+            "longDescription": "Upgrade your desktop with this Toshiba internal Serial ATA III hard drive that features a 3TB storage capacity to accommodate your music, movies and more. The internal shock detection and ramp-loading technology help guard against damage."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "j5create - Hard Drive Enclosure for 3.5\" SATA Hard Drives - Black",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/8756247/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "j5create",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/8756/8756247_sa.jpg",
+            "longDescription": "Expand the storage of your computer with this j5 create JEE351 hard drive enclosure, which allows you to plug a 3.5\" SATA hard drive into your computer via a USB 3.0 interface for simple connection. Hot-swap capability enables plug-and-play operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Desktop Everyday 4TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 109.99,
+            "salePrice": 109.99,
+            "url": "https://api.bestbuy.com/click/-/9026007/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9026/9026007_sa.jpg",
+            "longDescription": "Expand your desktop's storage capabilities with this WD Desktop Everyday SATA hard drive, which features a spacious 4TB capacity to house your movies, music and more. Data transfer rates up to 6 Gbps ensure efficient performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Desktop Everyday 6TB Internal SATA Hard Drive for Desktops",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/9026016/pdp",
+            "customerReviewAverage": 4.1,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9026/9026016_sa.jpg",
+            "longDescription": "Designed for use with select PC and Mac desktops, this WD Desktop Everyday internal SATA hard drive features a 6TB capacity, so you can easily store a wealth of games, movies, music, pictures and other files."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Mainstream 1TB Internal Serial ATA Hard Drive for Desktops",
+            "regularPrice": 49.99,
+            "salePrice": 49.99,
+            "url": "https://api.bestbuy.com/click/-/9312067/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9312/9312067_sa.jpg",
+            "longDescription": "This WD Mainstream internal Serial ATA hard drive is designed for use with desktops and features data transfer rates up to 6 Gbps for fast performance. The 1TB capacity offers ample space for storing music, movies and more."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Mainstream 2TB Internal Serial ATA Hard Drive for Desktops",
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "url": "https://api.bestbuy.com/click/-/9312076/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9312/9312076_sa.jpg",
+            "longDescription": "Enhance your desktop with this WD Mainstream internal Serial ATA hard drive, which features a 64MB cache buffer for rapid processing speed. The 2TB capacity offers space for your documents, music, photos, movies and more."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Mainstream 3TB Internal Serial ATA Hard Drive for Desktops",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/9312085/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9312/9312085_sa.jpg",
+            "longDescription": "With a generous 3TB capacity, this WD Mainstream internal Serial ATA desktop hard drive easily accommodates your digital media collection. Data transfer rates up to 6 Gbps and a 64MB cache buffer help ensure fast, efficient operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Mainstream 500GB Internal Serial ATA Hard Drive for Laptops",
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "url": "https://api.bestbuy.com/click/-/9314108/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9314/9314108_sa.jpg",
+            "longDescription": "Give your laptop a performance boost with this WD Mainstream internal Serial ATA hard drive, which features a spacious 500GB capacity for storing media. Data transfer rates up to 3 Gbps deliver efficient operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Mainstream 1TB Internal Serial ATA Hard Drive for Laptops",
+            "regularPrice": 54.99,
+            "salePrice": 50.99,
+            "url": "https://api.bestbuy.com/click/-/9314126/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9314/9314126_sa.jpg",
+            "longDescription": "Store your important files on this WD Mainstream internal Serial ATA hard drive, which is designed for laptops and features an expansive 1TB capacity to house your media. Low power consumption helps ensure quiet, cool operation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - Performance 4TB Internal Serial ATA Hard Drive for Desktops",
+            "regularPrice": 194.99,
+            "salePrice": 194.99,
+            "url": "https://api.bestbuy.com/click/-/9315347/pdp",
+            "customerReviewAverage": 4.3,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9315/9315347_sa.jpg",
+            "longDescription": "This WD Performance internal Serial ATA desktop hard drive features a spacious 4TB capacity, so you can store plenty of movies, songs, photos and other files. Data transfer rates up to 6 Gbps and a 64MB cache offer fast, reliable performance."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0515000"
+                },
+                {
+                    "id": "abcat0504001"
+                },
+                {
+                    "id": "pcmcat270900050001"
+                }
+            ],
+            "name": "WD - 2TB Internal Hard Drive (NAS)",
+            "regularPrice": 89.99,
+            "salePrice": 89.99,
+            "url": "https://api.bestbuy.com/click/-/9315443/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "WD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/9315/9315443_sa.jpg",
+            "longDescription": "Designed for use with most NAS systems with up to 5 bays, this WD network hard drive features a spacious 2TB capacity for storing important data. IntelliPower technology delivers reliable performance and minimizes power consumption."
+        }
+    ]
+}

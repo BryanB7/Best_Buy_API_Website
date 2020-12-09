@@ -1,0 +1,469 @@
+{
+    "from": 1,
+    "to": 19,
+    "currentPage": 1,
+    "total": 19,
+    "totalPages": 1,
+    "queryTime": "0.020",
+    "totalTime": "0.055",
+    "partial": false,
+    "canonicalUrl": "/v1/products((categoryPath.id=abcat0507010&customerReviewAverage>=3.5))?show=categoryPath.id,name,regularPrice,salePrice,url,customerReviewAverage,manufacturer,image,longDescription&pageSize=100&format=json&apiKey=hjz08uwA2k6tVBeb71PBHAGB",
+    "products": [
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 5 1600 Six-Core 3.2 GHz Desktop Processor",
+            "regularPrice": 189.99,
+            "salePrice": 189.99,
+            "url": "https://api.bestbuy.com/click/-/6091101/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6091/6091101_sa.jpg",
+            "longDescription": "Bank on solid, efficient computing performance with this six-core AMD Ryzen 5 desktop processor. Its 3.6GHz maximum turbo core speed sufficiently supports 1080p and VR gaming, and its 16MB L3 cache memory provides an enhanced CPU memory operation. The 65W default thermal design power of this AMD Ryzen 5 desktop processor lets you build a power-efficient computer system."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i3-8100 Coffee Lake Quad-Core 3.6 GHz Desktop Processor - Silver",
+            "regularPrice": 119.99,
+            "salePrice": 119.99,
+            "url": "https://api.bestbuy.com/click/-/6162970/pdp",
+            "customerReviewAverage": 4.0,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6162/6162970_sa.jpg",
+            "longDescription": "Increase productivity with this eighth-generation Intel Core i3 processor. Its low power consumption at 65W keeps motherboard components cool, and its 3.60GHz clock speed lets you multitask efficiently on each of the four cores. This Intel Core i3 processor supports up to 64GB of DDR4 RAM to meet future expansion needs."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i7-8700 Coffee Lake Six-Core 3.2 GHz Desktop Processor",
+            "regularPrice": 309.99,
+            "salePrice": 309.99,
+            "url": "https://api.bestbuy.com/click/-/6162975/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6162/6162975_sa.jpg",
+            "longDescription": "Construct a lightning-fast motherboard with this six-core Intel Core i7 processor. Its 12MB of cache provides fast data retrieval to speed up operations, and its low 65W power consumption keeps components cool. Crank this eighth-generation Intel Core i7 processor up to its turbo frequency of 4.6GHz to run large programs."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i7-8700K Coffee Lake Six-Core 3.7 GHz Desktop Processor",
+            "regularPrice": 379.99,
+            "salePrice": 379.99,
+            "url": "https://api.bestbuy.com/click/-/6162997/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6162/6162997_sa.jpg",
+            "longDescription": "Use this Intel Core i7 processor to upgrade your current motherboard. Its 3.7GHz base frequency can be overclocked to 4.7GHz for running multiple power-hungry programs over its six cores, and it supports 4K graphics for enjoying movies and games. This Intel Core i7 processor lets you add up to 64GB of DDR4 RAM for powerful multitasking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i5-8600K Coffee Lake Six-Core 3.6 GHz Desktop Processor - Silver",
+            "regularPrice": 259.99,
+            "salePrice": 259.99,
+            "url": "https://api.bestbuy.com/click/-/6163018/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6163/6163018_sa.jpg",
+            "longDescription": "Build your own computer beginning with this Intel Core i5 processor. Its 9MB of cache memory offers fast data retrieval for maximum efficiency, and the base frequency of 3.6GHz powers through demanding applications and programs. Switch between multiple tasks smoothly with this eighth-generation Intel Core i5 processor when you pair it with up to 64GB of DDR4 RAM."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i5-8400 Coffee Lake Six-Core 2.8 GHz Desktop Processor - Silver",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6163019/pdp",
+            "customerReviewAverage": 4.7,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6163/6163019_sa.jpg",
+            "longDescription": "Supercharge your custom PC with this eighth-generation Intel Core i5 processor. It has six threads and six cores constructed with Intel's Coffee Lake architecture and a 9MB cache to make your computer fast and efficient. This Intel Core i5 processor supports up to 64GB of RAM for extreme multitasking capabilities."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 5 2400G Quad-Core 3.6 GHz Desktop Processor",
+            "regularPrice": 169.99,
+            "salePrice": 169.99,
+            "url": "https://api.bestbuy.com/click/-/6224300/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6224/6224300_sa.jpg",
+            "longDescription": "Power your custom desktop PC with this 14nm process, quad-core AMD Ryzen 5 processor. It includes 11-core Radeon Vega graphics for higher performance without a separate graphics card, and it works with the AMD Wraith Stealth cooler for effective heat dissipation. This AMD Ryzen 5 processor supports PCIe 3.0 and HDMI to interface with up-to-date hardware and displays."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 7 2700X Octa-Core 3.7 GHz Desktop Processor with Wraith Prism LED Cooler",
+            "regularPrice": 329.99,
+            "salePrice": 329.99,
+            "url": "https://api.bestbuy.com/click/-/6224301/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6224/6224301_sa.jpg",
+            "longDescription": "Build your own motherboard with this AMD Ryzen 7 processor. Its advanced Wraith Prism cooler lets it operate at lower noise volumes for quieter processing, and its clear fan helps keep components cool while providing better RGB light illumination for creating fun effects. This AMD Ryzen 7 processor has eight cores for completing multiple system-intensive tasks at once."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 5 2600 Six-Core 3.4 GHz Desktop Processor with Wraith Stealth Cooler",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6234508/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6234/6234508_sa.jpg",
+            "longDescription": "Build your own custom motherboard beginning with this AMD Ryzen 5 processor. Its six cores and 12 threads provide powerful processing capability for system-intensive tasks, and its base/boost speed sits at 3.4GHz and 3.9GHz, respectively, for efficient overclocking. This AMD Ryzen 5 processor has a Wraith Stealth cooler to keep components from overheating."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 3 2200G Quad-Core 3.5 GHz Desktop Processor",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/6234509/pdp",
+            "customerReviewAverage": 4.5,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6234/6234509_sa.jpg",
+            "longDescription": "Create a compact gamer PC with this quad-core AMD Ryzen 3 desktop processor. Its integrated Radeon Vega 8 graphics support dynamic, high-resolution visuals, and its built-in Wraith Stealth cooler ensures thermal stability. This unlocked AMD Ryzen 3 desktop processor has a 3.7GHz boost clock speed to keep up with intense gaming."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 7 2700 Octa-Core 3.2 GHz Desktop Processor with Wraith Spire LED Cooler",
+            "regularPrice": 309.99,
+            "salePrice": 309.99,
+            "url": "https://api.bestbuy.com/click/-/6234511/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6234/6234511_sa.jpg",
+            "longDescription": "Get more gaming speed out of your computer with this AMD Ryzen 7 2700 processor. Eight cores and 16 threads combine with the 16MB L3 cache to process huge chunks of data at up to 4.1GHz for maximum performance. This AMD Ryzen 7 2700 processor comes with a Wraith Spire cooler to ensure powerful heat dissipation."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i9-9900K Octa-Core 3.6 GHz Desktop Processor",
+            "regularPrice": 529.99,
+            "salePrice": 529.99,
+            "url": "https://api.bestbuy.com/click/-/6302019/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6302/6302019_sa.jpg",
+            "longDescription": "Complete your computer setup with this Intel Core i9 desktop processor. The hyper-threading technology allows for 16-way multitasking, and eight cores combine with Turbo Boost Technology 2.0 for quick operations. This Intel Core i9 desktop processor supports Optane memory for more efficient loading and increased overall responsiveness with faster access to data."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i5-9600K Six-Core 3.7 GHz Desktop Processor",
+            "regularPrice": 279.99,
+            "salePrice": 279.99,
+            "url": "https://api.bestbuy.com/click/-/6302020/pdp",
+            "customerReviewAverage": 4.8,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6302/6302020_sa.jpg",
+            "longDescription": "Boost productivity with this ninth-generation Intel Core i5 desktop processor. The 4.6GHz speed is suitable for games and other CPU-intensive applications, and the six cores deliver smooth performance to help you get your work done faster. Pair this Intel Core i5 desktop processor with Intel 300 Series motherboards for Intel Optane memory support."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i7-9700K Octa-Core 3.6 GHz Desktop Processor",
+            "regularPrice": 409.99,
+            "salePrice": 409.99,
+            "url": "https://api.bestbuy.com/click/-/6302021/pdp",
+            "customerReviewAverage": 4.9,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6302/6302021_sa.jpg",
+            "longDescription": "Boost your desktop's performance with this Intel Core processor. The multitasking ability of its eight cores let you increase your productivity, while its frequency of up to 4.9GHz delivers powerful gaming performance. This Intel Core processor has 12MB of cache to improve access rates and provide fast computation for all your tasks."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i9-9900X 10-core 3.5 GHz Desktop Processor with Enhanced Speedstep Technology",
+            "regularPrice": 999.99,
+            "salePrice": 999.99,
+            "url": "https://api.bestbuy.com/click/-/6311303/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6311/6311303_sa.jpg",
+            "longDescription": "Upgrade your computer with this Intel Core i9 processor. Turbo Boost Max Technology 3.0 identifies the two fastest cores to handle your most demanding programs, and its over-clocking feature lets you get the most out of each core. This Intel Core i9 processor lets you work with 360-degree and VR videos in 4K."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "Intel - Core i5-9400F Six-Core 2.9 GHz Desktop Processor without Graphics",
+            "regularPrice": 199.99,
+            "salePrice": 149.99,
+            "url": "https://api.bestbuy.com/click/-/6350570/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "Intel",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6350/6350570_sa.jpg",
+            "longDescription": "Run high-end programs and games with this Intel Core i5-9400F processor. The six-core design with a max frequency of 4.10GHz handles multiple programs and browser tabs simultaneously for better productivity, while Intel Boot Guard blocks malicious attacks and viruses. This Intel Core i5-9400F processor supports up to 128GB of DDR4 RAM for seamless multitasking."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 9 3900X 12-core 3.8 GHz Desktop Processor",
+            "regularPrice": 499.99,
+            "salePrice": 499.99,
+            "url": "https://api.bestbuy.com/click/-/6356274/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6356/6356274_sa.jpg",
+            "longDescription": "Improve the performance of your desktop computer with this AMD Ryzen 9 3900X 12-core processor. The 64MB L3 cache queues instructions in the processor, increasing throughput speed, while the 4.6GHz Max Boost clock provides ample power for running intensive applications. This AMD Ryzen 9 3900X 12-core processor has a Wraith Prism cooling system, which lets sensitive components run smoothly."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 5 3600 Six-Core 3.6 GHz Desktop Processor",
+            "regularPrice": 199.99,
+            "salePrice": 199.99,
+            "url": "https://api.bestbuy.com/click/-/6356278/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6356/6356278_sa.jpg",
+            "longDescription": "Enhance the performance of your computer with this AMD Ryzen 5 3600 processor. The 4.2GHz Max Boost speed provides extra power for intense processes, and the 32MB L3 cache increases the overall speed by queuing commands in the processor. This AMD Ryzen 5 3600 processor has a Wraith Stealth cooling system, which ensures sensitive components function flawlessly."
+        },
+        {
+            "categoryPath": [
+                {
+                    "id": "cat00000"
+                },
+                {
+                    "id": "abcat0500000"
+                },
+                {
+                    "id": "abcat0507000"
+                },
+                {
+                    "id": "abcat0507010"
+                }
+            ],
+            "name": "AMD - Ryzen 3 3200G Quad-Core 3.6 GHz Desktop Processor",
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "url": "https://api.bestbuy.com/click/-/6356279/pdp",
+            "customerReviewAverage": 5.0,
+            "manufacturer": "AMD",
+            "image": "https://img.bbystatic.com/BestBuy_US/images/products/6356/6356279_sa.jpg",
+            "longDescription": "Enhance the performance of your desktop computer with this AMD Ryzen 3 3200G quad-core processor. The 4GHz Max Boost clock provides ample power for running intensive applications, and 4MB of L3 cache queues commands in the processor quickly. This AMD Ryzen 3 3200G quad-core processor has Radeon Vega 8 graphics for everyday use playing movies or casual games."
+        }
+    ]
+}

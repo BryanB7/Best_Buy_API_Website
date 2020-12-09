@@ -1,0 +1,7 @@
+Motherboard - abcat0507008
+CPU - abcat0507010
+CPU Cooler - pcmcat339900050006
+Memory(RAM) - abcat0506000
+Storage(SSD/HDD) - pcmcat270900050001
+GPU - abcat0507002
+PSU - abcat0507009
